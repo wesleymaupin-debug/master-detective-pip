@@ -1,0 +1,152 @@
+{
+  "sceneId": "c6p3",
+  "title": "The Gloating Clockmaker",
+  "totalDuration": 97.08,
+  "file": "audio/c6p3.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 7.9,
+      "duration": 7.9,
+      "text": "Silence filled the cavernous chamber. Only the slow, backwards ticking of the Great Clock echoed through the dark:"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 7.9,
+      "end": 12.34,
+      "duration": 4.44,
+      "text": "TICK... TOCK... TICK..."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 12.34,
+      "end": 18.38,
+      "duration": 6.05,
+      "text": "You pick up Pip\u2019s crooked tweed hat, clutching it against your chest as tears stream down your cheeks."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 18.38,
+      "end": 28.87,
+      "duration": 10.49,
+      "text": "Heavy wooden boots stomped onto the catwalk. Two nine-foot Clockwork Praetorians seized you by the arms, twisting your hands behind your back and forcing you to your knees."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 28.87,
+      "end": 37.3,
+      "duration": 8.42,
+      "text": "The Clockmaker bent down, picked up Barnaby's forged silver cog with his brass-tipped fingers, and examined it with a cruel, mocking smile."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 37.3,
+      "end": 40.18,
+      "duration": 2.88,
+      "text": "Such exquisite craftsmanship,"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 40.18,
+      "end": 42.55,
+      "duration": 2.38,
+      "text": "the Clockmaker murmured."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 42.55,
+      "end": 45.17,
+      "duration": 2.62,
+      "text": "A pity it will never turn."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 45.17,
+      "end": 53.4,
+      "duration": 8.23,
+      "text": "The Clockmaker walked slowly toward you, standing over you on the catwalk. He looked down with cold, venomous triumph."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 53.4,
+      "end": 55.94,
+      "duration": 2.54,
+      "text": "Look at you, Unbound,"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 55.94,
+      "end": 60.67,
+      "duration": 4.73,
+      "text": "the Clockmaker sneered, his voice booming through the cathedral of gears."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 60.67,
+      "end": 75.46,
+      "duration": 14.78,
+      "text": "Captured. Defeated. Alone. Your little fox is erased from existence. Your master-smith is locked in an iron cage. You have NO ONE left to help you!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 75.46,
+      "end": 79.54,
+      "duration": 4.08,
+      "text": "He leaned in close, his silver hair glinting in the dark."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 79.54,
+      "end": 89.45,
+      "duration": 9.91,
+      "text": "You will never touch the Great Clock. You will never stop the reverse countdown. And you will never see your friends or your world ever again."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 89.45,
+      "end": 94.75,
+      "duration": 5.3,
+      "text": "He raised his obsidian pocket-watch, preparing to lock you in chains forever."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 94.75,
+      "end": 97.08,
+      "duration": 2.33,
+      "text": "And that's when you hear it."
+    }
+  ]
+}

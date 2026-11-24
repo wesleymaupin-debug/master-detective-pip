@@ -1,0 +1,152 @@
+{
+  "sceneId": "c5p6",
+  "title": "The Bravest Dog in Everfrost & The Choice",
+  "totalDuration": 103.3,
+  "file": "audio/c5p6.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.9,
+      "duration": 4.9,
+      "text": "With the feast finished, the clock on the wall gave a heavy tick: TICK-TOCK."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.9,
+      "end": 12.34,
+      "duration": 7.44,
+      "text": "The velvet carrying case containing the Forward Escapement Gear rested by the door. It was time to go."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 12.34,
+      "end": 19.61,
+      "duration": 7.27,
+      "text": "Granny walked over to Titan, who was sitting politely on his haunches, his big brown eyes filled with deep, soulful gratitude."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 19.61,
+      "end": 32.64,
+      "duration": 13.03,
+      "text": "From her apron pocket, Granny pulled out a special, hand-stitched burlap pouch tied with a bright red velvet ribbon. Inside were five massive, bone-shaped cookies that smelled like sweet smoke, bacon, and golden honey."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 32.64,
+      "end": 39.89,
+      "duration": 7.25,
+      "text": "She reached out with both hands and gave Titan the most glorious, double-handed scratch right behind his black-freckled ears."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 39.89,
+      "end": 46.25,
+      "duration": 6.36,
+      "text": "Titan closed his eyes in pure bulldog heaven, letting out a deep, rumble-snore of utter contentment."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 46.25,
+      "end": 49.01,
+      "duration": 2.76,
+      "text": "These are for you, sweet boy,"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 49.01,
+      "end": 51.82,
+      "duration": 2.81,
+      "text": "Granny whispered into his ear."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 51.82,
+      "end": 64.2,
+      "duration": 12.38,
+      "text": "Whenever you feel frightened... whenever the dark seems too big or the noise seems too loud... you eat one of these Courage Nubbies. And you remember that you are the bravest, strongest, most wonderful dog in the world."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 64.2,
+      "end": 74.59,
+      "duration": 10.39,
+      "text": "Titan took the ribbon gently between his massive jowls. He held the bag as if it were made of spun glass, his little docked tail buzzing with quiet, fierce loyalty."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 74.59,
+      "end": 79.49,
+      "duration": 4.9,
+      "text": "Barnaby picked up his heavy iron pipe wrench and patted his braided beard."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 79.49,
+      "end": 82.94,
+      "duration": 3.46,
+      "text": "The Grand Clock sits in the center of the village plaza,"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 82.94,
+      "end": 86.5,
+      "duration": 3.55,
+      "text": "Barnaby said, his voice turning serious."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "pip",
+      "start": 86.5,
+      "end": 95.76,
+      "duration": 9.26,
+      "text": "The lower gates are locked down tight by the Nutcracker guard battalions. But Titan's peppermint balloon can hover right over the high spires when the time comes."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 95.76,
+      "end": 99.74,
+      "duration": 3.98,
+      "text": "You pick up the velvet case containing the Master Cog."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 99.74,
+      "end": 103.3,
+      "duration": 3.55,
+      "text": "How does the team approach the Grand Clock Tower?"
+    }
+  ]
+}

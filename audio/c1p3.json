@@ -1,0 +1,278 @@
+{
+  "sceneId": "c1p3",
+  "title": "The Fade",
+  "totalDuration": 148.82,
+  "file": "audio/c1p3.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "hero",
+      "start": 0.0,
+      "end": 1.87,
+      "duration": 1.87,
+      "text": "Maya!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 1.87,
+      "end": 7.94,
+      "duration": 6.07,
+      "text": "you shout, taking a step forward, but a wooden bayonet snaps down, blocking your path."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "soldier",
+      "start": 7.94,
+      "end": 9.82,
+      "duration": 1.87,
+      "text": "OBSERVE,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 9.82,
+      "end": 12.43,
+      "duration": 2.62,
+      "text": "the Nutcracker guard rattles."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 12.43,
+      "end": 15.53,
+      "duration": 3.1,
+      "text": "THE SPIRIT RESTORATION IS COMMENCING."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 15.53,
+      "end": 32.16,
+      "duration": 16.63,
+      "text": "The lavender smoke from the hearth coiled gently around Maya\u2019s face like warm ribbons. For a second, she squeezed her eyes shut, fighting it. You could see her trying to hold on to her memories\u2014trying to remember her family, her grandma, the world that was here just yesterday."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 32.16,
+      "end": 35.06,
+      "duration": 2.9,
+      "text": "Then, her shoulders relaxed."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 35.06,
+      "end": 44.93,
+      "duration": 9.86,
+      "text": "The fear in her face melted away. Her eyes opened, but the spark in them was gone, replaced by a smooth, glossy reflection of the purple flame."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 44.93,
+      "end": 48.67,
+      "duration": 3.74,
+      "text": "A calm, gentle smile spread across her lips."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "hero",
+      "start": 48.67,
+      "end": 50.54,
+      "duration": 1.87,
+      "text": "Maya?"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 50.54,
+      "end": 53.42,
+      "duration": 2.88,
+      "text": "you whisper, your voice trembling."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "hero",
+      "start": 53.42,
+      "end": 55.3,
+      "duration": 1.87,
+      "text": "Do you hear me?"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 55.3,
+      "end": 64.42,
+      "duration": 9.12,
+      "text": "Maya looked straight at you, blinking slowly. Her voice was smooth and polite, like someone reciting lines from a holiday greeting card."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "maya",
+      "start": 64.42,
+      "end": 66.91,
+      "duration": 2.5,
+      "text": "Why are you looking so worried?"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 66.91,
+      "end": 69.22,
+      "duration": 2.3,
+      "text": "she asked pleasantly."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "maya",
+      "start": 69.22,
+      "end": 76.01,
+      "duration": 6.79,
+      "text": "Isn't it wonderful? It's Christmas. We're going to open presents all day."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "hero",
+      "start": 76.01,
+      "end": 78.86,
+      "duration": 2.86,
+      "text": "No, Maya, listen to me,"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 78.86,
+      "end": 80.74,
+      "duration": 1.87,
+      "text": "you plead."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "hero",
+      "start": 80.74,
+      "end": 85.01,
+      "duration": 4.27,
+      "text": "It\u2019s Thanksgiving. Think about yesterday!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 85.01,
+      "end": 90.02,
+      "duration": 5.02,
+      "text": "Maya let out a soft, tinkling laugh that made the hair on your arms stand up."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 90.02,
+      "end": 96.5,
+      "duration": 6.48,
+      "text": "Yesterday? There is no yesterday. There is only Christmas."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 96.5,
+      "end": 102.26,
+      "duration": 5.76,
+      "text": "The commander stepped forward, stamping Maya's hand with a glowing red snowflake ink stamp."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "soldier",
+      "start": 102.26,
+      "end": 106.85,
+      "duration": 4.58,
+      "text": "PROCESSED. ASSIGN CITIZEN TO REINDEER CRAFTS."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 106.85,
+      "end": 111.74,
+      "duration": 4.9,
+      "text": "The commander slowly turned his painted, unblinking black eyes toward you."
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "soldier",
+      "start": 111.74,
+      "end": 113.64,
+      "duration": 1.9,
+      "text": "NEXT SUBJECT,"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 113.64,
+      "end": 115.92,
+      "duration": 2.28,
+      "text": "the commander clicked."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "soldier",
+      "start": 115.92,
+      "end": 121.03,
+      "duration": 5.11,
+      "text": "YOU ARE DEMONSTRATING SEVERE CHEER RESISTANCE. STEP FORWARD."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 121.03,
+      "end": 138.22,
+      "duration": 17.18,
+      "text": "You look at the glowing hearth. You feel a strange hum in the back of your mind\u2014a quiet, stubborn voice telling you that you are different. The magic that took Maya\u2019s memories washes against your thoughts, but it doesn't take hold. It slides off like water on glass."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 138.22,
+      "end": 145.32,
+      "duration": 7.1,
+      "text": "You remember the truth. And if you go up to that hearth, there's no telling if you can hold on to it."
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 145.32,
+      "end": 148.82,
+      "duration": 3.5,
+      "text": "You need to run. Now."
+    }
+  ]
+}

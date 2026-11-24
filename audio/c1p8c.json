@@ -1,0 +1,116 @@
+{
+  "sceneId": "c1p8c",
+  "title": "The Dumpster Dive",
+  "totalDuration": 75.62,
+  "file": "audio/c1p8c.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 8.52,
+      "duration": 8.52,
+      "text": "There\u2019s no time to explain. The beam of a Nutcracker's brass lantern is already sweeping across the brick wall fifty feet away."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 8.52,
+      "end": 14.69,
+      "duration": 6.17,
+      "text": "You sprint forward, grab the trailing tail of the fox's long red scarf, and give it a firm yank!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 14.69,
+      "end": 19.39,
+      "duration": 4.7,
+      "text": "I SAY! UNHAND THE MERCHANDISE\u2014OOF!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 19.39,
+      "end": 26.38,
+      "duration": 6.98,
+      "text": "You pull the fox sideways behind the wide green dumpster just as the lantern beam cuts through the snow where he was standing!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 26.38,
+      "end": 35.09,
+      "duration": 8.71,
+      "text": "The fox lands on your boots, his cap knocked down over his eyes. For a second, he panics in pure, unscripted terror:"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "pip",
+      "start": 35.09,
+      "end": 40.01,
+      "duration": 4.92,
+      "text": "I DON'T TASTE GOOD! I'M MOSTLY FLUFF AND BAD ATTITUDE!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "hero",
+      "start": 40.01,
+      "end": 41.88,
+      "duration": 1.87,
+      "text": "Quiet!"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 41.88,
+      "end": 46.42,
+      "duration": 4.54,
+      "text": "you whisper into his furry ear, pointing toward the mouth of the alley."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "hero",
+      "start": 46.42,
+      "end": 48.29,
+      "duration": 1.87,
+      "text": "Look."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 48.29,
+      "end": 57.34,
+      "duration": 9.05,
+      "text": "Peering through the gap between the dumpster and the wall, the fox watches as four stiff-legged Nutcrackers march past, their brass bayonets gleaming in the snow."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 57.34,
+      "end": 65.69,
+      "duration": 8.35,
+      "text": "The fox pushes his hat out of his eyes. He looks at you, looks at the soldiers, and nods with dignified gravity:"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 65.69,
+      "end": 75.62,
+      "duration": 9.94,
+      "text": "Ahem. An adequate flanking maneuver. I allowed you to execute it to bolster your youthful self-esteem. You may thank me later."
+    }
+  ]
+}

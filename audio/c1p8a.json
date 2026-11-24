@@ -1,0 +1,116 @@
+{
+  "sceneId": "c1p8a",
+  "title": "\"Halt! I'm Armed!\"",
+  "totalDuration": 65.69,
+  "file": "audio/c1p8a.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "pip",
+      "start": 0.0,
+      "end": 1.87,
+      "duration": 1.87,
+      "text": "Hey!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 1.87,
+      "end": 5.16,
+      "duration": 3.29,
+      "text": "you hiss from the shadows by the brick wall."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 5.16,
+      "end": 9.72,
+      "duration": 4.56,
+      "text": "Get down! The wooden soldiers are right around the corner!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 9.72,
+      "end": 15.82,
+      "duration": 6.1,
+      "text": "The fox jumps three feet straight into the air, his tail poofing out to the size of a water heater!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 15.82,
+      "end": 19.61,
+      "duration": 3.79,
+      "text": "His fancy British accent vanishes in an instant."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "hero",
+      "start": 19.61,
+      "end": 26.59,
+      "duration": 6.98,
+      "text": "SWEET MOTHER OF GINGERBREAD, HALT! I'M ARMED! I DON'T KNOW WHAT THIS DOES!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 26.59,
+      "end": 33.14,
+      "duration": 6.55,
+      "text": "He spins around in the snow, wildly swinging a heavy, gleaming brass device in both paws like a club."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "hero",
+      "start": 33.14,
+      "end": 36.19,
+      "duration": 3.05,
+      "text": "Shh! Be quiet!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 36.19,
+      "end": 40.15,
+      "duration": 3.96,
+      "text": "you whisper, lunging forward and waving your hands."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "hero",
+      "start": 40.15,
+      "end": 42.31,
+      "duration": 2.16,
+      "text": "I'm trying to help you!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 42.31,
+      "end": 53.81,
+      "duration": 11.5,
+      "text": "The fox blinks, lowers the brass device slightly, and quickly adjusts his crooked detective cap. He straightens his posture and his ridiculous accent returns as if nothing happened:"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 53.81,
+      "end": 65.69,
+      "duration": 11.88,
+      "text": "Ahem. Yes. Quite. Naturally, I was merely... testing your tactical reflexes. You passed with acceptable marks, civilian."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sceneId": "c1p4",
+  "title": "The Breakout",
+  "totalDuration": 38.93,
+  "file": "audio/c1p4.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 7.73,
+      "duration": 7.73,
+      "text": "The wooden guards step toward you, their joints creaking in rhythm. Clack-clack. Clack-clack."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 7.73,
+      "end": 15.14,
+      "duration": 7.42,
+      "text": "You have about three seconds before wooden hands grab your coat. You scan the gymnasium for a way out:"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 15.14,
+      "end": 22.32,
+      "duration": 7.18,
+      "text": "The three soldiers closing in have little copper gears visible behind their ears, twitching in sync with the holiday music."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 22.32,
+      "end": 28.85,
+      "duration": 6.53,
+      "text": "To your left, the shadow under the folded wooden bleachers offers a low crawl space toward the equipment room."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 28.85,
+      "end": 37.01,
+      "duration": 8.16,
+      "text": "To your right, a twenty-foot pyramid of oversized, red-and-gold gift boxes stands directly between you and the side emergency exit."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 37.01,
+      "end": 38.93,
+      "duration": 1.92,
+      "text": "What do you do?"
+    }
+  ]
+}

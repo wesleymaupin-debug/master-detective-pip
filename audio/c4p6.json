@@ -1,0 +1,584 @@
+{
+  "sceneId": "c4p6",
+  "title": "The Grumpy Master Smith",
+  "totalDuration": 353.35,
+  "file": "audio/c4p6.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.75,
+      "duration": 4.75,
+      "text": "You and Pip turn away from the door and look into the dimly lit workshop."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.75,
+      "end": 21.55,
+      "duration": 16.8,
+      "text": "The room is enormous\u2014carved directly out of an underground geothermal cavern. Warm steam hissed from copper pipes along the ceiling, and the walls were lined from floor to rafters with thousands of organized wooden bins containing gears, brass clock hands, springs, and glass vacuum tubes."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 21.55,
+      "end": 28.44,
+      "duration": 6.89,
+      "text": "Standing in the center of the room, standing on a wooden apple crate to reach a giant iron workbench, was an elf."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 28.44,
+      "end": 42.5,
+      "duration": 14.06,
+      "text": "He was tiny\u2014barely three feet tall\u2014with wild white eyebrows that stuck straight out like wire brushes, a thick white beard tucked into his leather work apron, and a pair of brass jeweler's magnifying spectacles with five different lenses flipped over his squinting eyes."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 42.5,
+      "end": 46.82,
+      "duration": 4.32,
+      "text": "In one leather-gloved hand, he held a heavy iron pipe wrench."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 46.82,
+      "end": 52.85,
+      "duration": 6.02,
+      "text": "The old elf lowered his wrench and glared at you over his glasses with intense, cranky suspicion."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "pip",
+      "start": 52.85,
+      "end": 56.69,
+      "duration": 3.84,
+      "text": "Who in the name of frosted gumdrops kicked my door down?"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 56.69,
+      "end": 60.14,
+      "duration": 3.46,
+      "text": "the elf barked in a voice like grinding gravel."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 60.14,
+      "end": 64.25,
+      "duration": 4.1,
+      "text": "And what kind of monster is out there eating my defensive perimeter?!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 64.25,
+      "end": 66.12,
+      "duration": 1.87,
+      "text": "Ahem!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 66.12,
+      "end": 71.5,
+      "duration": 5.38,
+      "text": "Pip stepped forward, tipping his houndstooth cap with supreme theatrical elegance."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 71.5,
+      "end": 83.16,
+      "duration": 11.66,
+      "text": "Greetings, esteemed artisan! I am Master Detective Pip, and this is my chief field operative. We seek the legendary apprentice of the Great Clock\u2014Barnaby Grumble!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 83.16,
+      "end": 87.0,
+      "duration": 3.84,
+      "text": "The old elf squinted through his magnifying lenses."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "pip",
+      "start": 87.0,
+      "end": 88.97,
+      "duration": 1.97,
+      "text": "Never heard of him,"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 88.97,
+      "end": 92.59,
+      "duration": 3.62,
+      "text": "the elf snapped, turning back to his workbench."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 92.59,
+      "end": 101.02,
+      "duration": 8.42,
+      "text": "Barnaby Grumble died eighty years ago of boredom and irritation. Now get out before I grease your tail and feed you to my steam boiler."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 101.02,
+      "end": 112.99,
+      "duration": 11.98,
+      "text": "You step forward. You don't try to argue with him. Instead, you reach into Pip's coat, pull out the heavy, leather-bound journal, and set it gently on the iron workbench."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 112.99,
+      "end": 119.28,
+      "duration": 6.29,
+      "text": "The silver clasps catch the lantern light. The gold letters gleam: C.M."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 119.28,
+      "end": 121.46,
+      "duration": 2.18,
+      "text": "Barnaby froze."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 121.46,
+      "end": 126.26,
+      "duration": 4.8,
+      "text": "The wrench slipped from his hand, hitting the wooden floor with a heavy CLANG."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 126.26,
+      "end": 136.92,
+      "duration": 10.66,
+      "text": "The old elf slowly turned around. His wild white eyebrows trembled. With shaking leather fingers, he touched the worn gold letters on the cover."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 136.92,
+      "end": 139.1,
+      "duration": 2.18,
+      "text": "The master's journal,"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 139.1,
+      "end": 143.74,
+      "duration": 4.63,
+      "text": "Barnaby whispered, his cranky voice cracking with genuine grief."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 143.74,
+      "end": 146.02,
+      "duration": 2.28,
+      "text": "Where did you find this?"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "hero",
+      "start": 146.02,
+      "end": 149.5,
+      "duration": 3.48,
+      "text": "In the secret vault beneath the old river mill,"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 149.5,
+      "end": 151.73,
+      "duration": 2.23,
+      "text": "you say quietly."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "hero",
+      "start": 151.73,
+      "end": 161.95,
+      "duration": 10.22,
+      "text": "The Great Clock has struck twelve. The hand is ticking backward. My friends in Arizona are losing their memories, and Everfrost is going dark."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 161.95,
+      "end": 165.24,
+      "duration": 3.29,
+      "text": "You look directly into Barnaby's eyes."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 165.24,
+      "end": 171.55,
+      "duration": 6.31,
+      "text": "You're the only one who knows how the Clockmaker built it. We need your help to stop him."
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 171.55,
+      "end": 180.41,
+      "duration": 8.86,
+      "text": "Barnaby stared at you. The gruff, angry scowl faded from his face, replaced by a sudden, heartbreaking look of sheer terror."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 180.41,
+      "end": 182.28,
+      "duration": 1.87,
+      "text": "Stop him?"
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "narrator",
+      "start": 182.28,
+      "end": 185.88,
+      "duration": 3.6,
+      "text": "Barnaby whispered, his eyes welling with panic."
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 185.88,
+      "end": 201.14,
+      "duration": 15.26,
+      "text": "You don't understand what you're asking! He isn't just an inventor anymore. He's woven himself into the very fabric of time itself! He will crush you! He will turn you into clockwork firewood!"
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "narrator",
+      "start": 201.14,
+      "end": 204.19,
+      "duration": 3.05,
+      "text": "Barnaby shook his head violently."
+    },
+    {
+      "elId": "seg-34",
+      "idx": 34,
+      "speaker": "pip",
+      "start": 204.19,
+      "end": 213.65,
+      "duration": 9.46,
+      "text": "No. No, I won't let another child be destroyed by that tower. I'm sorry, kid. This is for your own good."
+    },
+    {
+      "elId": "seg-35",
+      "idx": 35,
+      "speaker": "narrator",
+      "start": 213.65,
+      "end": 220.8,
+      "duration": 7.15,
+      "text": "Before you or Pip can react, Barnaby reaches into his leather apron and pulls out a small, ornate brass snuffbox."
+    },
+    {
+      "elId": "seg-36",
+      "idx": 36,
+      "speaker": "narrator",
+      "start": 220.8,
+      "end": 236.59,
+      "duration": 15.79,
+      "text": "He snaps the lid open. A cloud of glittering, lavender-and-silver dust\u2014the exact same scent as the Cheer Hearth in Arizona\u2014swirls into the air! Barnaby blows across the box, sending the glowing memory-dust washing straight over your face!"
+    },
+    {
+      "elId": "seg-37",
+      "idx": 37,
+      "speaker": "narrator",
+      "start": 236.59,
+      "end": 238.85,
+      "duration": 2.26,
+      "text": "Sleep, child,"
+    },
+    {
+      "elId": "seg-38",
+      "idx": 38,
+      "speaker": "narrator",
+      "start": 238.85,
+      "end": 243.1,
+      "duration": 4.25,
+      "text": "Barnaby murmured softly, looking away with deep regret."
+    },
+    {
+      "elId": "seg-39",
+      "idx": 39,
+      "speaker": "narrator",
+      "start": 243.1,
+      "end": 251.35,
+      "duration": 8.26,
+      "text": "Forget the clock. Forget the frost. Go back to your warm bed and let the holiday keep you safe..."
+    },
+    {
+      "elId": "seg-40",
+      "idx": 40,
+      "speaker": "narrator",
+      "start": 251.35,
+      "end": 255.07,
+      "duration": 3.72,
+      "text": "The shimmering lavender cloud wrapped around your head."
+    },
+    {
+      "elId": "seg-41",
+      "idx": 41,
+      "speaker": "narrator",
+      "start": 255.07,
+      "end": 262.03,
+      "duration": 6.96,
+      "text": "You feel the strange, sweet tickle in your thoughts\u2014the heavy fog that made Maya smile blankly and forget yesterday."
+    },
+    {
+      "elId": "seg-42",
+      "idx": 42,
+      "speaker": "narrator",
+      "start": 262.03,
+      "end": 264.89,
+      "duration": 2.86,
+      "text": "You wait for the fog to take hold."
+    },
+    {
+      "elId": "seg-43",
+      "idx": 43,
+      "speaker": "narrator",
+      "start": 264.89,
+      "end": 266.76,
+      "duration": 1.87,
+      "text": "You blink."
+    },
+    {
+      "elId": "seg-44",
+      "idx": 44,
+      "speaker": "narrator",
+      "start": 266.76,
+      "end": 268.97,
+      "duration": 2.21,
+      "text": "You sneeze once:"
+    },
+    {
+      "elId": "seg-45",
+      "idx": 45,
+      "speaker": "narrator",
+      "start": 268.97,
+      "end": 270.84,
+      "duration": 1.87,
+      "text": "Achoo!"
+    },
+    {
+      "elId": "seg-46",
+      "idx": 46,
+      "speaker": "narrator",
+      "start": 270.84,
+      "end": 275.06,
+      "duration": 4.22,
+      "text": "You wipe your nose on your coat sleeve and look straight at Barnaby."
+    },
+    {
+      "elId": "seg-47",
+      "idx": 47,
+      "speaker": "hero",
+      "start": 275.06,
+      "end": 277.82,
+      "duration": 2.76,
+      "text": "Is that supposed to make me sleepy?"
+    },
+    {
+      "elId": "seg-48",
+      "idx": 48,
+      "speaker": "narrator",
+      "start": 277.82,
+      "end": 280.03,
+      "duration": 2.21,
+      "text": "you ask calmly."
+    },
+    {
+      "elId": "seg-49",
+      "idx": 49,
+      "speaker": "hero",
+      "start": 280.03,
+      "end": 283.56,
+      "duration": 3.53,
+      "text": "Because it mostly just smells like burnt cinnamon."
+    },
+    {
+      "elId": "seg-50",
+      "idx": 50,
+      "speaker": "narrator",
+      "start": 283.56,
+      "end": 287.9,
+      "duration": 4.34,
+      "text": "Barnaby\u2019s jaw dropped so low his white beard touched his apron."
+    },
+    {
+      "elId": "seg-51",
+      "idx": 51,
+      "speaker": "narrator",
+      "start": 287.9,
+      "end": 293.38,
+      "duration": 5.47,
+      "text": "The brass snuffbox slipped from his shaking fingers, clattering across the floorboards."
+    },
+    {
+      "elId": "seg-52",
+      "idx": 52,
+      "speaker": "narrator",
+      "start": 293.38,
+      "end": 296.38,
+      "duration": 3.0,
+      "text": "Pip gasped, clutching his chest."
+    },
+    {
+      "elId": "seg-53",
+      "idx": 53,
+      "speaker": "pip",
+      "start": 296.38,
+      "end": 300.38,
+      "duration": 4.01,
+      "text": "By St. Nick's whiskers... you... you breathed the Lethe-Mist!"
+    },
+    {
+      "elId": "seg-54",
+      "idx": 54,
+      "speaker": "narrator",
+      "start": 300.38,
+      "end": 309.65,
+      "duration": 9.26,
+      "text": "Barnaby stumbled back against his workbench, staring at you in utter, speechless shock. His magnifying lenses rattled on his nose."
+    },
+    {
+      "elId": "seg-55",
+      "idx": 55,
+      "speaker": "narrator",
+      "start": 309.65,
+      "end": 312.05,
+      "duration": 2.4,
+      "text": "It... it didn't take,"
+    },
+    {
+      "elId": "seg-56",
+      "idx": 56,
+      "speaker": "narrator",
+      "start": 312.05,
+      "end": 316.08,
+      "duration": 4.03,
+      "text": "Barnaby breathed, his voice trembling with reverent awe."
+    },
+    {
+      "elId": "seg-57",
+      "idx": 57,
+      "speaker": "narrator",
+      "start": 316.08,
+      "end": 321.82,
+      "duration": 5.74,
+      "text": "In eight hundred years, no living creature has ever looked into the mist and remembered their name."
+    },
+    {
+      "elId": "seg-58",
+      "idx": 58,
+      "speaker": "narrator",
+      "start": 321.82,
+      "end": 330.12,
+      "duration": 8.3,
+      "text": "The old elf took off his spectacles with trembling hands. For the first time, tears glinted in the corners of his eyes."
+    },
+    {
+      "elId": "seg-59",
+      "idx": 59,
+      "speaker": "narrator",
+      "start": 330.12,
+      "end": 334.9,
+      "duration": 4.78,
+      "text": "The ancient prophecy... from the founding days of Santa and the Master..."
+    },
+    {
+      "elId": "seg-60",
+      "idx": 60,
+      "speaker": "narrator",
+      "start": 334.9,
+      "end": 338.5,
+      "duration": 3.6,
+      "text": "Barnaby whispered, his voice hushed and solemn."
+    },
+    {
+      "elId": "seg-61",
+      "idx": 61,
+      "speaker": "narrator",
+      "start": 338.5,
+      "end": 346.8,
+      "duration": 8.3,
+      "text": "You notice what is hidden. You remember what is erased. You're the one who can touch the clock and live."
+    },
+    {
+      "elId": "seg-62",
+      "idx": 62,
+      "speaker": "narrator",
+      "start": 346.8,
+      "end": 351.29,
+      "duration": 4.49,
+      "text": "He looked at you as if seeing a miracle standing in his dusty shop."
+    },
+    {
+      "elId": "seg-63",
+      "idx": 63,
+      "speaker": "narrator",
+      "start": 351.29,
+      "end": 353.35,
+      "duration": 2.06,
+      "text": "You're an Unbound."
+    }
+  ]
+}

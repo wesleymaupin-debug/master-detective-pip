@@ -1,0 +1,323 @@
+{
+  "sceneId": "c5p3",
+  "title": "The Master Cog & The Braided Beard",
+  "totalDuration": 207.98,
+  "file": "audio/c5p3.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 5.5,
+      "duration": 5.5,
+      "text": "Barnaby stepped back from the blueprint and wiped his grease-stained hands on his leather apron."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 5.5,
+      "end": 26.28,
+      "duration": 20.78,
+      "text": "Up close, you realize Barnaby wasn't fragile like most toy-makers. He was an exceptionally wide, broad-shouldered elf with arms like tree trunks, built like an anvil. His thick beard was long and iron-gray, but he kept it woven into a tight, neat braid tucked securely into his belt so it wouldn't catch in his spinning gears and lathes while he worked."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "hero",
+      "start": 26.28,
+      "end": 30.0,
+      "duration": 3.72,
+      "text": "If the Clockmaker stole the Forward Escapement Gear,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 30.0,
+      "end": 33.02,
+      "duration": 3.02,
+      "text": "you say, looking at the diagram,"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "hero",
+      "start": 33.02,
+      "end": 39.17,
+      "duration": 6.14,
+      "text": "how do we fix the clock? He must have the original locked at the top of the tower."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 39.17,
+      "end": 43.42,
+      "duration": 4.25,
+      "text": "A sly, stubborn grin broke through Barnaby's braided beard."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 43.42,
+      "end": 47.81,
+      "duration": 4.39,
+      "text": "The Clockmaker thought he was the only master-smith in Everfrost,"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 47.81,
+      "end": 50.86,
+      "duration": 3.05,
+      "text": "Barnaby rumbled with quiet pride."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 50.86,
+      "end": 54.07,
+      "duration": 3.22,
+      "text": "He forgot who helped him cast the iron."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 54.07,
+      "end": 63.94,
+      "duration": 9.86,
+      "text": "Barnaby walked over to a heavy floor safe hidden beneath an anvil. He spun the brass tumbler\u2014click, click, chunk\u2014and lifted the thick iron lid."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 63.94,
+      "end": 70.18,
+      "duration": 6.24,
+      "text": "Reaching inside with both hands, Barnaby lifted out an object that made the entire workshop glow."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 70.18,
+      "end": 88.58,
+      "duration": 18.41,
+      "text": "It was a magnificent gear wheel forged from solid star-silver and polished brass, eighteen inches wide. Its teeth were cut with microscopic precision, each one inscribed with tiny, glowing golden runes. In the center, a miniature crystal pendulum spun in silent, eternal forward motion."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "pip",
+      "start": 88.58,
+      "end": 90.65,
+      "duration": 2.06,
+      "text": "For fifty years,"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 90.65,
+      "end": 93.07,
+      "duration": 2.42,
+      "text": "Barnaby said softly,"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "pip",
+      "start": 93.07,
+      "end": 101.81,
+      "duration": 8.74,
+      "text": "I have been in this junkyard, forging a twin. An exact replica of the Master Forward Cog. But I could never install it."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 101.81,
+      "end": 103.68,
+      "duration": 1.87,
+      "text": "Why not?"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 103.68,
+      "end": 107.47,
+      "duration": 3.79,
+      "text": "Pip asked, his yellow eyes wide in the golden light."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "pip",
+      "start": 107.47,
+      "end": 110.98,
+      "duration": 3.5,
+      "text": "Because the Great Clock's core rejects ordinary hands,"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 110.98,
+      "end": 114.55,
+      "duration": 3.58,
+      "text": "Barnaby explained, looking directly at you."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "pip",
+      "start": 114.55,
+      "end": 125.06,
+      "duration": 10.51,
+      "text": "If I tried to tune it, the temporal feedback would shatter my mind. Only an Unbound can hold the cog, align its teeth with the Great Wheel, and restart the forward flow of time."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 125.06,
+      "end": 138.67,
+      "duration": 13.61,
+      "text": "Barnaby gently set the glowing cog into an insulated velvet carrying case and handed it to you. The metal felt warm and alive through your gloves, humming with a steady, reassuring heartbeat: tick... tock... tick... tock."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 138.67,
+      "end": 143.88,
+      "duration": 5.21,
+      "text": "Right at that moment, a massive, earthquake-like rumble shook the cavern floor."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 143.88,
+      "end": 145.75,
+      "duration": 1.87,
+      "text": "Pip jumped:"
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "pip",
+      "start": 145.75,
+      "end": 149.64,
+      "duration": 3.89,
+      "text": "Great crackers! Was that the Clockmaker?!"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "pip",
+      "start": 149.64,
+      "end": 151.51,
+      "duration": 1.87,
+      "text": "No,"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 151.51,
+      "end": 155.47,
+      "duration": 3.96,
+      "text": "a deep, muffled voice whimpered from the open doorway."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "pip",
+      "start": 155.47,
+      "end": 157.34,
+      "duration": 1.87,
+      "text": "That was my belly."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 157.34,
+      "end": 172.03,
+      "duration": 14.69,
+      "text": "You turn around. Titan was wedged in the workshop doorway, covered in cedar splinters and pine shavings from his feast of wooden goblins. He looked at you with big, mournful puppy eyes and rested his heavy chin on the threshold."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 172.03,
+      "end": 174.94,
+      "duration": 2.9,
+      "text": "I have vanquished the wooden army,"
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 174.94,
+      "end": 177.36,
+      "duration": 2.42,
+      "text": "Titan announced proudly."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 177.36,
+      "end": 189.07,
+      "duration": 11.71,
+      "text": "All fifty of them. But wood has zero nutritional value, and my stomach is having an emotional crisis. Are there... are there any nubbies in this establishment?"
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "narrator",
+      "start": 189.07,
+      "end": 193.54,
+      "duration": 4.46,
+      "text": "Barnaby chuckled, a booming laugh that rattled his braided beard."
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 193.54,
+      "end": 196.85,
+      "duration": 3.31,
+      "text": "A heroic hound deserves a hero's feast,"
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "narrator",
+      "start": 196.85,
+      "end": 199.03,
+      "duration": 2.18,
+      "text": "Barnaby smiled."
+    },
+    {
+      "elId": "seg-34",
+      "idx": 34,
+      "speaker": "narrator",
+      "start": 199.03,
+      "end": 207.98,
+      "duration": 8.95,
+      "text": "Come along, team. Before we march on the Clock Tower, we visit the kitchen. My wife has been expecting us."
+    }
+  ]
+}

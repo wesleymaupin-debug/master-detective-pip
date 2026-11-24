@@ -1,0 +1,332 @@
+{
+  "sceneId": "c4p5",
+  "title": "\"I Love Crunching on Wood!\"",
+  "totalDuration": 174.94,
+  "file": "audio/c4p5.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 5.18,
+      "duration": 5.18,
+      "text": "You scramble to your feet to throw open the door, fully expecting a nightmare."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 5.18,
+      "end": 9.65,
+      "duration": 4.46,
+      "text": "Instead, the entire canyon has gone completely silent."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 9.65,
+      "end": 18.1,
+      "duration": 8.45,
+      "text": "Through the crack in the door, you see Titan standing in the middle of the snow. He still has the lead goblin clamped in his mouth."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 18.1,
+      "end": 22.99,
+      "duration": 4.9,
+      "text": "Titan\u2019s big brown eyes were wide with pure, ecstatic realization."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 22.99,
+      "end": 26.86,
+      "duration": 3.86,
+      "text": "A long, thick strand of drool hung from his jowl."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 26.86,
+      "end": 32.21,
+      "duration": 5.35,
+      "text": "He opened his jaws, and the mangled wooden toy dropped onto the snow with a soft clack."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 32.21,
+      "end": 36.67,
+      "duration": 4.46,
+      "text": "Titan took a deep, exploratory sniff of the splintered pine."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 36.67,
+      "end": 48.48,
+      "duration": 11.81,
+      "text": "His little docked tail began to buzz. First a slow wag... then faster... until his entire muscular back half was violently vibrating with pure, unadulterated canine joy!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 48.48,
+      "end": 52.13,
+      "duration": 3.65,
+      "text": "Titan looked through the door at you, his eyes shining:"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "titan",
+      "start": 52.13,
+      "end": 54.0,
+      "duration": 1.87,
+      "text": "WOOD?!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 54.0,
+      "end": 58.2,
+      "duration": 4.2,
+      "text": "Titan bellowed, his voice filled with glorious disbelief."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "titan",
+      "start": 58.2,
+      "end": 60.29,
+      "duration": 2.09,
+      "text": "THEY'RE MADE OF WOOD?!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 60.29,
+      "end": 64.9,
+      "duration": 4.61,
+      "text": "The remaining thirty wooden goblins froze in complete bewilderment."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 64.9,
+      "end": 68.23,
+      "duration": 3.34,
+      "text": "THE BEAST HAS DISMANTLED SERGEANT PINE,"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 68.23,
+      "end": 72.43,
+      "duration": 4.2,
+      "text": "a wooden goblin whispered, clicking its claws nervously."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 72.43,
+      "end": 75.5,
+      "duration": 3.07,
+      "text": "WHY IS IT WAGGLING ITS POSTERIOR?"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "titan",
+      "start": 75.5,
+      "end": 78.1,
+      "duration": 2.59,
+      "text": "I LOVE CRUNCHING ON WOOD!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 78.1,
+      "end": 82.73,
+      "duration": 4.63,
+      "text": "Titan shouted, doing a giant, bouncy puppy-pounce in the snow."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 82.73,
+      "end": 93.46,
+      "duration": 10.73,
+      "text": "WOOD IS MY ABSOLUTE FAVORITE THING IN THE ENTIRE MULTIVERSE! THIS IS BETTER THAN STICKS AT THE PARK! THIS IS LIKE A WHOLE FOREST OF FLAVORED STICKS!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 93.46,
+      "end": 96.82,
+      "duration": 3.36,
+      "text": "Titan bounded forward with a happy snort!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 96.82,
+      "end": 98.93,
+      "duration": 2.11,
+      "text": "CHOMP-CRUNCH-SNAP!"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 98.93,
+      "end": 107.69,
+      "duration": 8.76,
+      "text": "He grabbed a second wooden goblin by its carved arm. The tough hardwood splintered like a dry potato chip between his giant molars!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 107.69,
+      "end": 109.85,
+      "duration": 2.16,
+      "text": "CRACK-CRUNCH-MUNCH!"
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 109.85,
+      "end": 112.2,
+      "duration": 2.35,
+      "text": "OH GINGER-SNAPS!"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 112.2,
+      "end": 116.64,
+      "duration": 4.44,
+      "text": "the goblins screamed, their wooden legs scrambling in reverse."
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 116.64,
+      "end": 123.05,
+      "duration": 6.41,
+      "text": "RETREAT! RETREAT! THE DEMON-DOG IS EATING THE SQUADRON!"
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "narrator",
+      "start": 123.05,
+      "end": 136.75,
+      "duration": 13.7,
+      "text": "Titan was having the greatest day of his entire life. He was pouncing on wooden toys, tossing them twenty feet into the air, catching them, and happily grinding them into fine cedar mulch with loud, satisfying CRUNCHES!"
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 136.75,
+      "end": 142.9,
+      "duration": 6.14,
+      "text": "He poked his big, grinning, black-freckled face through the doorway, his mouth full of splinters:"
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 142.9,
+      "end": 145.97,
+      "duration": 3.07,
+      "text": "You guys go ahead and talk to Barnaby!"
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 145.97,
+      "end": 150.58,
+      "duration": 4.61,
+      "text": "Titan puffed happily, his tail wagging a hundred miles an hour."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 150.58,
+      "end": 158.52,
+      "duration": 7.94,
+      "text": "Take your time! Seriously, take all the time you need! I've got like forty more sticks to chew!"
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "narrator",
+      "start": 158.52,
+      "end": 160.39,
+      "duration": 1.87,
+      "text": "CHOMP-CRUNCH."
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 160.39,
+      "end": 164.35,
+      "duration": 3.96,
+      "text": "Pip stared at the bulldog in speechless, jaw-dropped awe."
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "pip",
+      "start": 164.35,
+      "end": 166.22,
+      "duration": 1.87,
+      "text": "Well,"
+    },
+    {
+      "elId": "seg-34",
+      "idx": 34,
+      "speaker": "narrator",
+      "start": 166.22,
+      "end": 169.66,
+      "duration": 3.43,
+      "text": "Pip muttered, slowly straightening his tie."
+    },
+    {
+      "elId": "seg-35",
+      "idx": 35,
+      "speaker": "pip",
+      "start": 169.66,
+      "end": 174.94,
+      "duration": 5.28,
+      "text": "A completely planned canine diversion. I orchestrated the whole thing."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "sceneId": "c7p1",
+  "title": "\"I Smell Chewy Wood!\"",
+  "totalDuration": 120.46,
+  "file": "audio/c7p1.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.58,
+      "duration": 4.58,
+      "text": "The five-hundred-foot clock tower trembled under Titan\u2019s colossal weight."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.58,
+      "end": 17.23,
+      "duration": 12.65,
+      "text": "Standing twenty feet tall, his massive white shoulders glowing with raw Courage-Nubbie power, Titan lowered his square, black-freckled snout right down to the catwalk. His nostrils flared like two steam vents:"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 17.23,
+      "end": 19.25,
+      "duration": 2.02,
+      "text": "SNIIIIIIIIFFFF."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 19.25,
+      "end": 23.35,
+      "duration": 4.1,
+      "text": "Titan\u2019s big brown eyes lit up with ecstatic recognition."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 23.35,
+      "end": 31.63,
+      "duration": 8.28,
+      "text": "He stared down at the six elite Clockwork Praetorians, who were frozen mid-stride, their wooden knees knocking together: clatter-clatter-clatter."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 31.63,
+      "end": 37.08,
+      "duration": 5.45,
+      "text": "Titan let out a thunderous, joyful bellow that shook the icicles from the rafters:"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "titan",
+      "start": 37.08,
+      "end": 39.6,
+      "duration": 2.52,
+      "text": "I SMELL CHEWY WOOD!"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 39.6,
+      "end": 41.47,
+      "duration": 1.87,
+      "text": "RETREAT!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 41.47,
+      "end": 45.53,
+      "duration": 4.06,
+      "text": "the lead Praetorian clicked in screeching, wooden terror."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 45.53,
+      "end": 49.46,
+      "duration": 3.94,
+      "text": "THE CANINE MEGATHERIUM DESIRES FIBER CONSUMPTION!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 49.46,
+      "end": 51.34,
+      "duration": 1.87,
+      "text": "SMASH!"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 51.34,
+      "end": 55.2,
+      "duration": 3.86,
+      "text": "Titan swiped a colossal front paw like a snowplow!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 55.2,
+      "end": 62.64,
+      "duration": 7.44,
+      "text": "Three Praetorian guards went flying through the air like wooden bowling pins, smashing into kindling against the iron girders!"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 62.64,
+      "end": 67.73,
+      "duration": 5.09,
+      "text": "With his other paw, Titan casually backhanded Barnaby\u2019s iron cage."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 67.73,
+      "end": 69.6,
+      "duration": 1.87,
+      "text": "CRUNCH!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 69.6,
+      "end": 78.43,
+      "duration": 8.83,
+      "text": "The four-inch iron bars snapped like dry pretzels. Barnaby tumbled out onto the platform, gripping his pipe wrench with a roar:"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "pip",
+      "start": 78.43,
+      "end": 80.3,
+      "duration": 1.87,
+      "text": "THAT'S MY BOY!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 80.3,
+      "end": 91.85,
+      "duration": 11.54,
+      "text": "The Clockmaker lunged forward, trying to grab his obsidian pocket-watch off the floor, but Titan planted his massive front paw right on the Clockmaker's velvet coattails, pinning him flat to the metal grating!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 91.85,
+      "end": 93.72,
+      "duration": 1.87,
+      "text": "THUD."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 93.72,
+      "end": 101.06,
+      "duration": 7.34,
+      "text": "The silver Forward Escapement Gear flew from the Clockmaker\u2019s grip, spinning across the glass floor and landing right at your feet."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 101.06,
+      "end": 107.86,
+      "duration": 6.79,
+      "text": "Titan looked down at you, his little docked nub tail wagging so hard it created a gentle breeze on the catwalk."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 107.86,
+      "end": 110.64,
+      "duration": 2.78,
+      "text": "GEAR SECURED, LITTLE FRIEND!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 110.64,
+      "end": 118.01,
+      "duration": 7.37,
+      "text": "Titan rumbled warmly, gently scooping the last three Praetorians into his mouth like pretzel sticks: CRUNCH-CRUNCH-SNAP!"
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 118.01,
+      "end": 120.46,
+      "duration": 2.45,
+      "text": "NOW GO FIX THAT CLOCK!"
+    }
+  ]
+}

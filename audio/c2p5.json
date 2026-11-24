@@ -1,0 +1,188 @@
+{
+  "sceneId": "c2p5",
+  "title": "The Master Detective's Headquarters",
+  "totalDuration": 123.46,
+  "file": "audio/c2p5.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 5.47,
+      "duration": 5.47,
+      "text": "Pip pushed open the heavy wooden door, and you slipped inside the Old Clockwork Mill."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 5.47,
+      "end": 27.77,
+      "duration": 22.3,
+      "text": "The interior was massive, silent, and smelling of ancient cedar, machine oil, and cold river stone. Overhead, giant wooden gears the size of Ferris wheels hung suspended from the rafters, frozen in time and draped in thick silver spiderwebs. In the center of the room, a massive iron drive-shaft dropped straight through the floor into the icy depths of the frozen river below."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 27.77,
+      "end": 30.07,
+      "duration": 2.3,
+      "text": "Follow me, recruit,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 30.07,
+      "end": 35.18,
+      "duration": 5.11,
+      "text": "Pip whispered, gesturing toward a creaky spiral staircase of notched timber."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 35.18,
+      "end": 39.43,
+      "duration": 4.25,
+      "text": "Mind the seventh step. It squeaks in B-flat."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 39.43,
+      "end": 43.22,
+      "duration": 3.79,
+      "text": "You follow Pip up to the loft, and your jaw drops."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 43.22,
+      "end": 46.58,
+      "duration": 3.36,
+      "text": "This was clearly where Pip lived\u2014and worked:"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 46.58,
+      "end": 56.38,
+      "duration": 9.79,
+      "text": "Hanging across the back wall was a massive green chalkboard covered in frantic chalk scribbles, question marks, and messy loops of red yarn connecting bizarre newspaper clippings ("
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 56.38,
+      "end": 58.49,
+      "duration": 2.11,
+      "text": "IS SANTA AN ILLUSION?"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 58.49,
+      "end": 60.86,
+      "duration": 2.38,
+      "text": "WHERE DO THE MISSING HOURS GO?"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 60.86,
+      "end": 63.19,
+      "duration": 2.33,
+      "text": "WHO STOLE MY SHORTBREAD?"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 63.19,
+      "end": 70.73,
+      "duration": 7.54,
+      "text": "A small cast-iron stove in the corner was glowing with warm amber coals, heating a dented copper kettle that whistled softly."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 70.73,
+      "end": 78.41,
+      "duration": 7.68,
+      "text": "A desk was buried under magnifying glasses, brass calipers, hollowed-out pocket watches, and half-eaten gingerbread men."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 78.41,
+      "end": 83.64,
+      "duration": 5.23,
+      "text": "Pip paced back and forth on his hind legs, his tail twitching in frustration."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "pip",
+      "start": 83.64,
+      "end": 85.78,
+      "duration": 2.14,
+      "text": "I don't understand it!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 85.78,
+      "end": 89.38,
+      "duration": 3.6,
+      "text": "Pip cried, throwing his furry paws in the air."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "pip",
+      "start": 89.38,
+      "end": 105.19,
+      "duration": 15.82,
+      "text": "The whisper said: 'When the thirteenth bell sighs, the cog turns where the cold river lies.' I have lived in this mill for two years! I have inspected every plank, every cobweb, every crumpet crumb! There is no secret cog in this room!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 105.19,
+      "end": 114.86,
+      "duration": 9.67,
+      "text": "You look around the dusty room. Your mind feels that familiar, quiet buzz\u2014the part of your brain that always notices what other people walk right past."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 114.86,
+      "end": 120.7,
+      "duration": 5.83,
+      "text": "There is definitely something hidden here. You just need to know where to look."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 120.7,
+      "end": 123.46,
+      "duration": 2.76,
+      "text": "What do you want to inspect first?"
+    }
+  ]
+}

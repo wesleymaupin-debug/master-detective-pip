@@ -1,0 +1,215 @@
+{
+  "sceneId": "c7p3",
+  "title": "The Clock Strikes Forward",
+  "totalDuration": 124.7,
+  "file": "audio/c7p3.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.61,
+      "duration": 4.61,
+      "text": "You don't fight the machinery. You listen to it."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.61,
+      "end": 12.02,
+      "duration": 7.42,
+      "text": "You wait for the Great Pendulum to reach the absolute apex of its swing\u2014that tiny fraction of a second where time holds its breath."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 12.02,
+      "end": 13.9,
+      "duration": 1.87,
+      "text": "CLICK."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 13.9,
+      "end": 18.82,
+      "duration": 4.92,
+      "text": "You reach in with both hands, grasp the center balance pin, and twist!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 18.82,
+      "end": 22.34,
+      "duration": 3.53,
+      "text": "The black iron reverse-spiral snaps free!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 22.34,
+      "end": 28.73,
+      "duration": 6.38,
+      "text": "You heave the dark, jagged metal out of the housing, hurling it down into the dark abyss of the tower!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 28.73,
+      "end": 34.92,
+      "duration": 6.19,
+      "text": "Before the pendulum can drop, you lift Barnaby's star-silver Forward Cog into the empty slot."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 34.92,
+      "end": 46.2,
+      "duration": 11.28,
+      "text": "Its golden runes flare with blinding, warm light. You slide the cog onto the drive-shaft. The silver teeth mesh with the Great Wheel in a flawless, silky glide:"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 46.2,
+      "end": 48.22,
+      "duration": 2.02,
+      "text": "CLIIIICK-CHUNKKKKK."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 48.22,
+      "end": 53.23,
+      "duration": 5.02,
+      "text": "The Unbound spark inside your mind surges through your fingertips into the metal."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 53.23,
+      "end": 57.07,
+      "duration": 3.84,
+      "text": "For three seconds... absolute, dead silence."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 57.07,
+      "end": 60.53,
+      "duration": 3.46,
+      "text": "The Great Pendulum stops dead in the center."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 60.53,
+      "end": 67.13,
+      "duration": 6.6,
+      "text": "The purple temporal lightning crackles... flickers... and shatters into a billion glittering golden dust motes!"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 67.13,
+      "end": 69.0,
+      "duration": 1.87,
+      "text": "TICK."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 69.0,
+      "end": 71.69,
+      "duration": 2.69,
+      "text": "The star-silver gear turns."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 71.69,
+      "end": 73.56,
+      "duration": 1.87,
+      "text": "TOCK."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 73.56,
+      "end": 76.54,
+      "duration": 2.98,
+      "text": "The Great Pendulum swings FORWARD."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 76.54,
+      "end": 78.41,
+      "duration": 1.87,
+      "text": "BOOOOOOOOOOOOOOOOONG!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 78.41,
+      "end": 86.09,
+      "duration": 7.68,
+      "text": "A glorious, resonant, golden chime explodes from the tower bells, so sweet and triumphant it vibrates in your very bones!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 86.09,
+      "end": 92.5,
+      "duration": 6.41,
+      "text": "Blinding, radiant golden sunlight\u2014the light of a million restored tomorrows\u2014bursts from the Great Clock!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 92.5,
+      "end": 111.77,
+      "duration": 19.27,
+      "text": "The golden wave washes outward from the spire, sweeping across the dark rooftops of Everfrost. In an instant, every frosted cottage window blazes with warm amber light! The frozen canals glow with crystal warmth! The aurora sky clears into a brilliant, sparkling holiday twilight!"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 111.77,
+      "end": 122.14,
+      "duration": 10.37,
+      "text": "And far away, across the dimensional rifts, the golden light rushes into Arizona\u2014melting the abnormal snow, thawing the cold fog, and washing over Oak Creek Elementary!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 122.14,
+      "end": 124.7,
+      "duration": 2.57,
+      "text": "Tomorrow has been unlocked."
+    }
+  ]
+}

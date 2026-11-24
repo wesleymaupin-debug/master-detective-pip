@@ -1,0 +1,53 @@
+{
+  "sceneId": "c1p5b",
+  "title": "The Bleacher Shadow",
+  "totalDuration": 49.13,
+  "file": "audio/c1p5b.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.38,
+      "duration": 6.38,
+      "text": "You hit the varnished wood floor and slide on your stomach right beneath the bottom row of folded wooden bleachers!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "soldier",
+      "start": 6.38,
+      "end": 9.36,
+      "duration": 2.98,
+      "text": "TARGET HAS VACATED VISUAL FIELD!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 9.36,
+      "end": 18.41,
+      "duration": 9.05,
+      "text": "a soldier clicks above you. Heavy wooden boots stomp on the floorboards inches from your fingers. THUD-THUD-THUD!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 18.41,
+      "end": 35.28,
+      "duration": 16.87,
+      "text": "The space under the bleachers is dark, smelling of dust and lost tennis balls. You keep your head down and scramble on your elbows and knees through the crisscrossing metal support bars. Up above, the soldiers are marching back and forth, knocking over folding chairs in confusion."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 35.28,
+      "end": 49.13,
+      "duration": 13.85,
+      "text": "At the far end of the bleachers, you spot the propped-open equipment room door. You wriggle through a row of red rubber dodgeballs, slide past the ball carts, kick open the back service exit, and dive out into the biting winter air!"
+    }
+  ]
+}

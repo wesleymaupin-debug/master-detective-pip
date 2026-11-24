@@ -1,0 +1,107 @@
+{
+  "sceneId": "c3p2a",
+  "title": "The Mistletoe Protocol",
+  "totalDuration": 62.35,
+  "file": "audio/c3p2a.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.94,
+      "duration": 4.94,
+      "text": "You grab the brass mistletoe off the workbench and thrust it high above your head!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.94,
+      "end": 6.94,
+      "duration": 1.99,
+      "text": "JINGLE-JINGLE!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 6.94,
+      "end": 15.29,
+      "duration": 8.35,
+      "text": "Instantly, the three soldiers freeze mid-stride. Their wooden jaws snap open, their glass eyes dilating in sheer panic."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 15.29,
+      "end": 17.42,
+      "duration": 2.14,
+      "text": "BUZZZZ-CLICK-SPUTTER!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "soldier",
+      "start": 17.42,
+      "end": 20.06,
+      "duration": 2.64,
+      "text": "CRITICAL PROTOCOL OVERRIDE!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 20.06,
+      "end": 23.9,
+      "duration": 3.84,
+      "text": "the lead soldier chokes out with a mechanical shudder."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "soldier",
+      "start": 23.9,
+      "end": 32.23,
+      "duration": 8.33,
+      "text": "MISTLETOE DETECTED OVERHEAD! MILITARY HOSTILITIES SUSPENDED! INITIATE MANDATORY FESTIVE COURTESY!"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 32.23,
+      "end": 45.17,
+      "duration": 12.94,
+      "text": "Compelled by ancient holiday law, the soldiers drop their wooden shock-staves. The three giant wooden sentries turn to each other, bow stiffly at the waist, and begin exchanging absurdly polite holiday compliments:"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 45.17,
+      "end": 49.7,
+      "duration": 4.54,
+      "text": "YOU LOOK EXCEPTIONALLY RADIANT THIS AFTERNOON, SERGEANT CRACKER!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 49.7,
+      "end": 54.77,
+      "duration": 5.06,
+      "text": "NO, SERGEANT, YOUR GOLD BUTTONS ARE BY FAR THE SUPERIOR ADORNMENT!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 54.77,
+      "end": 62.35,
+      "duration": 7.58,
+      "text": "While the soldiers are locked in an endless loop of frantic, aggressive hugging and bowing, you grab Pip\u2019s paw and sprint past them!"
+    }
+  ]
+}

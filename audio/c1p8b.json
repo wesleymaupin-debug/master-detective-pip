@@ -1,0 +1,98 @@
+{
+  "sceneId": "c1p8b",
+  "title": "The Clockwork Compass",
+  "totalDuration": 76.66,
+  "file": "audio/c1p8b.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.7,
+      "duration": 6.7,
+      "text": "Keeping your boots light on the snow, you creep around the corner of the brick wall to get a better look at what he's holding."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 6.7,
+      "end": 31.82,
+      "duration": 25.13,
+      "text": "In his furry paws, the fox is clutching an extraordinary contraption. It looks like a giant, pocket-watch-sized compass forged from polished brass and dark copper. Beneath a spiderweb-cracked crystal face, half a dozen tiny silver needles are spinning erratically in opposite directions. Tiny glass vials of glowing blue sand bubble on the sides, and interlocking gears click softly: tick-tick-tick-whirr."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 31.82,
+      "end": 35.69,
+      "duration": 3.86,
+      "text": "As you lean in closer, your shadow falls across him."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 35.69,
+      "end": 41.95,
+      "duration": 6.26,
+      "text": "The fox's ears shoot up. He wheels around, dropping his accent completely:"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 41.95,
+      "end": 49.46,
+      "duration": 7.51,
+      "text": "YAAAAAH! BACK OFF! I'LL PRESS THE BUTTON! I SWEAR TO ST. NICK I'LL PRESS IT!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "hero",
+      "start": 49.46,
+      "end": 51.67,
+      "duration": 2.21,
+      "text": "Wait, don't yell!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 51.67,
+      "end": 54.77,
+      "duration": 3.1,
+      "text": "you whisper, holding up your hands."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "hero",
+      "start": 54.77,
+      "end": 57.46,
+      "duration": 2.69,
+      "text": "I'm running from the Nutcrackers!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 57.46,
+      "end": 66.7,
+      "duration": 9.24,
+      "text": "The fox halts, eyeing your winter jacket suspiciously. He clears his throat, tucks the device under his arm, and pulls on his lapels."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 66.7,
+      "end": 76.66,
+      "duration": 9.96,
+      "text": "Ahem. Of course. A fellow fugitive from justice. I deduced that instantly from the aerodynamic angle of your shoelaces."
+    }
+  ]
+}

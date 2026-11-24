@@ -1,0 +1,251 @@
+{
+  "sceneId": "c2p1",
+  "title": "The Forest of Lost Summers",
+  "totalDuration": 131.26,
+  "file": "audio/c2p1.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.61,
+      "duration": 4.61,
+      "text": "The wind howling across the high ridge was so cold it made your teeth ache."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.61,
+      "end": 18.62,
+      "duration": 14.02,
+      "text": "Down in the valley, Everfrost lay in pitch-black shadow. The Grand Clock's giant golden face was completely dark, but its massive brass pendulum still swung with a heavy, hollow CLANG-CLANG that rattled the snow right off the pine branches."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 18.62,
+      "end": 20.5,
+      "duration": 1.87,
+      "text": "Right then,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 20.5,
+      "end": 25.56,
+      "duration": 5.06,
+      "text": "Pip muttered, pulling his crooked detective hat down over his pointed ears."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 25.56,
+      "end": 34.08,
+      "duration": 8.52,
+      "text": "The situation has officially escalated from 'moderately troublesome' to 'thoroughly catastrophic.' We must make for my headquarters at once."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "hero",
+      "start": 34.08,
+      "end": 36.17,
+      "duration": 2.09,
+      "text": "Your headquarters?"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 36.17,
+      "end": 39.31,
+      "duration": 3.14,
+      "text": "you ask, rubbing your freezing arms."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "hero",
+      "start": 39.31,
+      "end": 41.18,
+      "duration": 1.87,
+      "text": "Where is that?"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 41.18,
+      "end": 44.88,
+      "duration": 3.7,
+      "text": "A classified location of immense strategic importance,"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 44.88,
+      "end": 49.44,
+      "duration": 4.56,
+      "text": "Pip declared, puffing out his chest under his giant green coat."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 49.44,
+      "end": 56.88,
+      "duration": 7.44,
+      "text": "The locals call it the Old Abandoned Mill by the frozen river. I call it... The Foxhole of Justice."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 56.88,
+      "end": 66.14,
+      "duration": 9.26,
+      "text": "He turned and trotted into the dense pine forest lining the mountain slope. You hurry after him, your boots crunching through the deep, powdery snow."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 66.14,
+      "end": 70.2,
+      "duration": 4.06,
+      "text": "The deeper you go into the woods, the stranger it gets."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 70.2,
+      "end": 74.66,
+      "duration": 4.46,
+      "text": "The wind isn't just whistling through the frosted needles\u2014it\u2019s talking."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 74.66,
+      "end": 83.9,
+      "duration": 9.24,
+      "text": "Faint, overlapping whispers drift off the snowbanks like silver mist. If you listen closely, they aren't words about winter or snow at all."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 83.9,
+      "end": 87.07,
+      "duration": 3.17,
+      "text": "...don't forget the sunscreen at the pool..."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 87.07,
+      "end": 90.62,
+      "duration": 3.55,
+      "text": "...look at the red and gold leaves on the maple tree..."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 90.62,
+      "end": 93.89,
+      "duration": 3.26,
+      "text": "...make a wish and blow out all eight candles..."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "pip",
+      "start": 93.89,
+      "end": 97.13,
+      "duration": 3.24,
+      "text": "...fourth of July fireworks start at nine..."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 97.13,
+      "end": 99.67,
+      "duration": 2.54,
+      "text": "You stop in your tracks."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "pip",
+      "start": 99.67,
+      "end": 101.86,
+      "duration": 2.18,
+      "text": "Pip... do you hear that?"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "pip",
+      "start": 101.86,
+      "end": 103.73,
+      "duration": 1.87,
+      "text": "Hear what?"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 103.73,
+      "end": 107.5,
+      "duration": 3.77,
+      "text": "Pip asked, stopping and adjusting his scarf."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "pip",
+      "start": 107.5,
+      "end": 116.16,
+      "duration": 8.66,
+      "text": "The ominous whistling of the arctic gusts? The subtle rustle of nocturnal woodland creatures? The roar of my own deductive intellect?"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "hero",
+      "start": 116.16,
+      "end": 118.03,
+      "duration": 1.87,
+      "text": "No,"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 118.03,
+      "end": 121.78,
+      "duration": 3.74,
+      "text": "you say, crouching beside a glowing blue snowdrift."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "hero",
+      "start": 121.78,
+      "end": 131.26,
+      "duration": 9.48,
+      "text": "Listen. It's summer. It's birthdays. It's autumn. The snow is whispering memories!"
+    }
+  ]
+}

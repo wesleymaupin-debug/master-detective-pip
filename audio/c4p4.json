@@ -1,0 +1,224 @@
+{
+  "sceneId": "c4p4",
+  "title": "The Last Stand & The Door Opens",
+  "totalDuration": 122.11,
+  "file": "audio/c4p4.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 3.77,
+      "duration": 3.77,
+      "text": "You remember the entry in the Clockmaker's journal:"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 3.77,
+      "end": 7.97,
+      "duration": 4.2,
+      "text": "Barnaby forged the primary escapement with three cogs."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 7.97,
+      "end": 12.34,
+      "duration": 4.37,
+      "text": "You grab the brass dial and spin it hard toward the COG symbol!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 12.34,
+      "end": 14.42,
+      "duration": 2.09,
+      "text": "CLIIIICK-WHIRRRRRR!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 14.42,
+      "end": 24.55,
+      "duration": 10.13,
+      "text": "Inside the stone doorframe, heavy internal weights drop with a thunderous THUD. The heavy iron bolt slides back, and the massive door cracks open three inches!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "hero",
+      "start": 24.55,
+      "end": 26.78,
+      "duration": 2.23,
+      "text": "The door is unlocking!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 26.78,
+      "end": 28.66,
+      "duration": 1.87,
+      "text": "you shout."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "hero",
+      "start": 28.66,
+      "end": 30.98,
+      "duration": 2.33,
+      "text": "Titan, get inside!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 30.98,
+      "end": 33.31,
+      "duration": 2.33,
+      "text": "I'M TRYING TO BE BRAVE!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 33.31,
+      "end": 37.49,
+      "duration": 4.18,
+      "text": "Titan whimpered, backing against the wall with his paws up."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 37.49,
+      "end": 46.66,
+      "duration": 9.17,
+      "text": "The wooden goblins surged up the snowy steps! Two of them lunged straight for your boots, their carved wooden claws snapping like bear traps!"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 46.66,
+      "end": 51.82,
+      "duration": 5.16,
+      "text": "Pip frantically shoved his shoulder against the iron door, trying to push it open."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 51.82,
+      "end": 65.18,
+      "duration": 13.37,
+      "text": "Titan saw the claws snapping inches from your legs. Something deep inside the giant bulldog snapped. His terrified whimpering stopped. His droopy ears flattened against his skull."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 65.18,
+      "end": 70.92,
+      "duration": 5.74,
+      "text": "He didn't care about the dark. He didn't care about the creepy faces."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 70.92,
+      "end": 74.38,
+      "duration": 3.46,
+      "text": "Nobody touches his treat-dispensing friend."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 74.38,
+      "end": 81.89,
+      "duration": 7.51,
+      "text": "With a deep, guttural, ground-shaking ROAR that echoed off the canyon cliffs, the giant white American Bulldog lunged forward!"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 81.89,
+      "end": 88.63,
+      "duration": 6.74,
+      "text": "He clamped his massive jaws around the lead wooden goblin and BIT DOWN with all eighty pounds of bulldog jaw-pressure!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 88.63,
+      "end": 103.25,
+      "duration": 14.62,
+      "text": "At that exact second, Pip\u2019s foot slipped on an oil patch. He crashed backward into the door, throwing it wide open. You and Pip lost your footing and went tumbling backward through the doorway, crashing into the dark room beyond!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 103.25,
+      "end": 105.12,
+      "duration": 1.87,
+      "text": "SLAM!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 105.12,
+      "end": 108.7,
+      "duration": 3.58,
+      "text": "The heavy iron door swung half-shut behind you!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 108.7,
+      "end": 114.62,
+      "duration": 5.93,
+      "text": "Through the opening, you see Titan surrounded by dozens of wooden goblins leaping through the air!"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "hero",
+      "start": 114.62,
+      "end": 116.66,
+      "duration": 2.04,
+      "text": "TITAN, NO!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 116.66,
+      "end": 120.24,
+      "duration": 3.58,
+      "text": "you scream, your heart leaping into your throat."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "hero",
+      "start": 120.24,
+      "end": 122.11,
+      "duration": 1.87,
+      "text": "TITAN!"
+    }
+  ]
+}

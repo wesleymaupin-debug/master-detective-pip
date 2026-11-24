@@ -1,0 +1,98 @@
+{
+  "sceneId": "c1p5a",
+  "title": "The Carol Trap",
+  "totalDuration": 65.11,
+  "file": "audio/c1p5a.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 5.38,
+      "duration": 5.38,
+      "text": "You take a deep breath, puff out your chest, and belt out at the top of your lungs:"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 5.38,
+      "end": 11.4,
+      "duration": 6.02,
+      "text": "JINGLE BELLS! JINGLE BELLS! JINGLE ALL THE\u2014"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 11.4,
+      "end": 13.92,
+      "duration": 2.52,
+      "text": "You clamp your mouth shut."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 13.92,
+      "end": 28.54,
+      "duration": 14.62,
+      "text": "Instantly, all three soldiers freeze mid-step. Their painted wooden jaws drop wide open. Inside their chests, copper gears grind and screech in agony as their internal programming violently collides with the unfinished tune."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 28.54,
+      "end": 30.65,
+      "duration": 2.11,
+      "text": "WHIRRRR-CLICK-SPUTTER!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "soldier",
+      "start": 30.65,
+      "end": 34.54,
+      "duration": 3.89,
+      "text": "CANNOT PERMIT... UNFINISHED CADENCE..."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 34.54,
+      "end": 37.03,
+      "duration": 2.5,
+      "text": "the commander chokes out."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 37.03,
+      "end": 47.74,
+      "duration": 10.7,
+      "text": "Compelled by ancient holiday magic, the soldiers snap their heels together, raise their arms in stiff choreography, and burst into a deafening, mechanical three-part barbershop harmony:"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 47.74,
+      "end": 53.59,
+      "duration": 5.86,
+      "text": "\u2014WAAAAAY! OH WHAT FUN IT IS TO RIDE IN A ONE-HORSE OPEN SLEIIIIIGH!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 53.59,
+      "end": 65.11,
+      "duration": 11.52,
+      "text": "While the soldiers are locked in their four-part vibrato, completely powerless to stop singing, you sprint right under their wooden noses, barrel through the emergency doors, and burst out into the freezing alley!"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "sceneId": "c7p4",
+  "title": "Restoring Pip",
+  "totalDuration": 170.86,
+  "file": "audio/c7p4.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 5.78,
+      "duration": 5.78,
+      "text": "You stand on the glowing glass platform, panting, tears streaming down your smiling face."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 5.78,
+      "end": 13.06,
+      "duration": 7.27,
+      "text": "The Great Clock is humming like a purring cat, ticking in majestic, rhythmic forward harmony: tick-tock, tick-tock."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 13.06,
+      "end": 16.68,
+      "duration": 3.62,
+      "text": "Then, your eyes drop to the cold metal grating."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 16.68,
+      "end": 22.37,
+      "duration": 5.69,
+      "text": "Lying near your boots is Pip's empty houndstooth detective cap and his little tattered notebook."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 22.37,
+      "end": 25.58,
+      "duration": 3.22,
+      "text": "Your chest aches with a heavy, hollow pain."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "hero",
+      "start": 25.58,
+      "end": 27.46,
+      "duration": 1.87,
+      "text": "Pip..."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 27.46,
+      "end": 29.35,
+      "duration": 1.9,
+      "text": "you whisper."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 29.35,
+      "end": 34.54,
+      "duration": 5.18,
+      "text": "Barnaby walks up beside you, placing a heavy, gentle hand on your shoulder."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 34.54,
+      "end": 43.39,
+      "duration": 8.86,
+      "text": "The magic that erased him... it came from the clock's memory-core. But now... the clock flows forward. It restores what was lost."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 43.39,
+      "end": 52.94,
+      "duration": 9.55,
+      "text": "You pick up Pip\u2019s crooked tweed hat. You hold it tight against your chest, close your eyes, and focus every ounce of your Unbound mind on your friend."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 52.94,
+      "end": 71.9,
+      "duration": 18.96,
+      "text": "You remember his ridiculously pompous British accent. You remember him tumbling out of the portal into the Arizona snowbank. You remember him screaming on the toboggan with his bushy tail in your face. You remember the fierce, quiet love in his yellow eyes when he pushed you to safety."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "hero",
+      "start": 71.9,
+      "end": 73.78,
+      "duration": 1.87,
+      "text": "Pip,"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 73.78,
+      "end": 76.58,
+      "duration": 2.81,
+      "text": "you whisper into the golden light."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "hero",
+      "start": 76.58,
+      "end": 80.69,
+      "duration": 4.1,
+      "text": "Your case isn't closed yet. Come home."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 80.69,
+      "end": 84.5,
+      "duration": 3.82,
+      "text": "The star-silver gear gives a bright, musical PING!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 84.5,
+      "end": 90.89,
+      "duration": 6.38,
+      "text": "Right on the platform, five feet in front of you, the air begins to sparkle with cinnamon-and-sugar smoke!"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 90.89,
+      "end": 93.19,
+      "duration": 2.3,
+      "text": "KER-POOOOOOOF!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 93.19,
+      "end": 98.95,
+      "duration": 5.76,
+      "text": "A shower of holiday confetti, glitter, and powdery snow explodes across the platform!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 98.95,
+      "end": 105.02,
+      "duration": 6.07,
+      "text": "A figure drops out of mid-air, landing completely flat on his face with an undignified FLUMP!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 105.02,
+      "end": 106.9,
+      "duration": 1.87,
+      "text": "Silence."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 106.9,
+      "end": 113.62,
+      "duration": 6.72,
+      "text": "Then, from beneath an oversized green trench coat, a muffled, pompous voice squeaked into the floorboards:"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "pip",
+      "start": 113.62,
+      "end": 122.71,
+      "duration": 9.1,
+      "text": "Ahem! I should like to state... for the official, written record... that every single element of this operation proceeded precisely according to plan."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 122.71,
+      "end": 127.39,
+      "duration": 4.68,
+      "text": "Pip slowly pulled his head out of the confetti, shaking his whiskers."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 127.39,
+      "end": 130.94,
+      "duration": 3.55,
+      "text": "His posh British accent completely vanished."
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 130.94,
+      "end": 133.46,
+      "duration": 2.52,
+      "text": "His yellow eyes went wide:"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "pip",
+      "start": 133.46,
+      "end": 136.56,
+      "duration": 3.1,
+      "text": "WAIT! DID WE WIN?!"
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "hero",
+      "start": 136.56,
+      "end": 138.43,
+      "duration": 1.87,
+      "text": "PIP!"
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 138.43,
+      "end": 140.38,
+      "duration": 1.94,
+      "text": "you scream."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 140.38,
+      "end": 147.5,
+      "duration": 7.13,
+      "text": "You drop to your knees and throw your arms around the little fox, hugging him so tight his brass buttons dig into your jacket!"
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 147.5,
+      "end": 150.31,
+      "duration": 2.81,
+      "text": "Pip blinked in stunned surprise."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 150.31,
+      "end": 161.09,
+      "duration": 10.78,
+      "text": "Then, his little furry paws wrapped around your neck. He buried his wet black nose into your shoulder, his bushy red tail wagging so hard it slapped the grating like a drum."
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "pip",
+      "start": 161.09,
+      "end": 162.96,
+      "duration": 1.87,
+      "text": "You did it,"
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 162.96,
+      "end": 167.23,
+      "duration": 4.27,
+      "text": "Pip whispered, his voice trembling with tears of pure joy."
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "pip",
+      "start": 167.23,
+      "end": 170.86,
+      "duration": 3.62,
+      "text": "I knew you could. I always knew."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "sceneId": "c5p5",
+  "title": "The Shapeshifting Cookies",
+  "totalDuration": 181.1,
+  "file": "audio/c5p5.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 10.25,
+      "duration": 10.25,
+      "text": "As you and Pip scrape your plates clean, and Titan licks his bowl so hard it slides across the rug like a curling stone, Granny walked out from the pantry carrying a steaming pewter platter."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 10.25,
+      "end": 16.8,
+      "duration": 6.55,
+      "text": "On the plate sat a dozen golden, perfectly baked holiday cookies dusted with sparkling sugar crystals."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 16.8,
+      "end": 21.7,
+      "duration": 4.9,
+      "text": "Pip hopped onto the edge of his chair, adjusting his detective lapels."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "pip",
+      "start": 21.7,
+      "end": 33.31,
+      "duration": 11.62,
+      "text": "Ahem! A splendid culinary display, Madame Grumble! But as an investigator of strict empirical discipline, I must inquire: what variety of cookie are we observing?"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 33.31,
+      "end": 37.1,
+      "duration": 3.79,
+      "text": "Granny laughed, a sound like little silver bells."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "pip",
+      "start": 37.1,
+      "end": 41.11,
+      "duration": 4.01,
+      "text": "They are whatever kind of cookie you want them to be, little fox."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 41.11,
+      "end": 45.05,
+      "duration": 3.94,
+      "text": "Pip squinted with deep, comically pompous suspicion."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "pip",
+      "start": 45.05,
+      "end": 54.05,
+      "duration": 9.0,
+      "text": "A psychological illusion, no doubt. A trick of the mind! Very well, I shall put your confectionery claim to the test!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 54.05,
+      "end": 56.54,
+      "duration": 2.5,
+      "text": "Pip puffed out his chest."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 56.54,
+      "end": 59.83,
+      "duration": 3.29,
+      "text": "I declare that I desire a Chocolate Chip cookie!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 59.83,
+      "end": 65.11,
+      "duration": 5.28,
+      "text": "Pip picked up a cookie, opened his snout wide, and took a big, crunchy bite."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 65.11,
+      "end": 68.66,
+      "duration": 3.55,
+      "text": "His amber eyes rolled back into his furry head."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "pip",
+      "start": 68.66,
+      "end": 84.22,
+      "duration": 15.55,
+      "text": "GOOD SWEET GINGERBREAD! That is... that is mathematically, scientifically, the single greatest chocolate chip cookie in the history of the universe! The molten cacao! The brown sugar ratio! It is a masterpiece!"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 84.22,
+      "end": 87.43,
+      "duration": 3.22,
+      "text": "Pip began chewing with furious delight."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 87.43,
+      "end": 91.75,
+      "duration": 4.32,
+      "text": "As he chewed, his eyes drifted toward the crackling fireplace."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 91.75,
+      "end": 101.04,
+      "duration": 9.29,
+      "text": "Though... now that I reflect upon the winter season... gingerbread has always been the superior festive biscuit. A touch of molasses, a bite of clove..."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 101.04,
+      "end": 102.91,
+      "duration": 1.87,
+      "text": "FLASH!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 102.91,
+      "end": 108.94,
+      "duration": 6.02,
+      "text": "Right inside Pip\u2019s mouth, a tiny puff of golden cinnamon sparkles puffed out of his nostrils!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 108.94,
+      "end": 115.18,
+      "duration": 6.24,
+      "text": "Pip\u2019s jaw froze mid-chew. His ears shot straight up like two radio antennas."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "pip",
+      "start": 115.18,
+      "end": 117.05,
+      "duration": 1.87,
+      "text": "WHA\u2014?!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 117.05,
+      "end": 119.9,
+      "duration": 2.86,
+      "text": "Pip gasped, his eyes bulging."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "pip",
+      "start": 119.9,
+      "end": 133.44,
+      "duration": 13.54,
+      "text": "MY CHOCOLATE CHIP JUST WENT CLOVE! IT'S WARM! IT'S SPICY! IT TURNED INTO GINGERBREAD IN THE MIDDLE OF MY TEETH! MADAME, YOUR BAKING IS DEFYING THE LAWS OF THERMODYNAMICS!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 133.44,
+      "end": 135.72,
+      "duration": 2.28,
+      "text": "Granny winked at you."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "pip",
+      "start": 135.72,
+      "end": 139.87,
+      "duration": 4.15,
+      "text": "Go on, sweetheart. Try yours."
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 139.87,
+      "end": 148.13,
+      "duration": 8.26,
+      "text": "You pick up a warm, sugar-dusted cookie. As you lift it to your mouth, you're still thinking about Pip's gingerbread."
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 148.13,
+      "end": 156.14,
+      "duration": 8.02,
+      "text": "You take a bite\u2014and the rich, sweet warmth of ginger and molasses explodes across your tongue, crunchy on the edges and soft in the middle."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "narrator",
+      "start": 156.14,
+      "end": 163.1,
+      "duration": 6.96,
+      "text": "Wow, you think, savoring the flavor. This would be amazing with a mug of hot chocolate."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 163.1,
+      "end": 164.98,
+      "duration": 1.87,
+      "text": "POOF."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 164.98,
+      "end": 174.86,
+      "duration": 9.89,
+      "text": "Instantly, the center of the cookie turns into a warm, creamy, velvety pocket of rich melted marshmallow and molten hot cocoa, coating your mouth in sweet, silky chocolate!"
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 174.86,
+      "end": 178.75,
+      "duration": 3.89,
+      "text": "You laugh out loud, your eyes wide with pure wonder."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 178.75,
+      "end": 181.1,
+      "duration": 2.35,
+      "text": "It really is magic!"
+    }
+  ]
+}

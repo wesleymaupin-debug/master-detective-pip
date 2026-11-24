@@ -1,0 +1,332 @@
+{
+  "sceneId": "c7p6",
+  "title": "The Way Home",
+  "totalDuration": 186.02,
+  "file": "audio/c7p6.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 8.35,
+      "duration": 8.35,
+      "text": "High above the clock tower, the golden temporal rift opened in the starry sky\u2014swirling with warm desert air and the scent of Thanksgiving dinner."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 8.35,
+      "end": 20.59,
+      "duration": 12.24,
+      "text": "Titan stood proudly beside the basket of his peppermint balloon, his aviator goggles pushed up over his black-freckled ears. In his mouth, he held his half-empty pouch of Granny's Courage Nubbies."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 20.59,
+      "end": 22.63,
+      "duration": 2.04,
+      "text": "I will never forget you,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 22.63,
+      "end": 28.68,
+      "duration": 6.05,
+      "text": "Titan rumbled softly, leaning his massive head in for one last, glorious ear scratch."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 28.68,
+      "end": 35.54,
+      "duration": 6.86,
+      "text": "You are my favorite human in the entire universe. If you ever need wood crunched... you just blow the whistle."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 35.54,
+      "end": 43.66,
+      "duration": 8.11,
+      "text": "Pip stepped up to the edge of the portal, his tweed houndstooth cap tilted jauntily over one ear, his long red scarf trailing in the wind."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 43.66,
+      "end": 50.57,
+      "duration": 6.91,
+      "text": "He pulled his tattered detective notebook from his coat, flipped to a fresh page, and tapped it with his pencil stub."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "pip",
+      "start": 50.57,
+      "end": 53.78,
+      "duration": 3.22,
+      "text": "Case Number One: The Never-Ending Christmas,"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 53.78,
+      "end": 58.39,
+      "duration": 4.61,
+      "text": "Pip announced in his finest, most aristocratic British accent."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 58.39,
+      "end": 65.06,
+      "duration": 6.67,
+      "text": "Status: Solved. By Master Detective Pip... and his legendary, Unbound partner."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 65.06,
+      "end": 69.0,
+      "duration": 3.94,
+      "text": "Pip looked up at you, his eyes shining with warm pride."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 69.0,
+      "end": 73.34,
+      "duration": 4.34,
+      "text": "Go on, recruit. Your friends are waiting."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 73.34,
+      "end": 77.88,
+      "duration": 4.54,
+      "text": "You smile, giving Pip\u2019s furry hand a firm, final squeeze."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 77.88,
+      "end": 81.07,
+      "duration": 3.19,
+      "text": "You step through the swirling golden light\u2014"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 81.07,
+      "end": 82.94,
+      "duration": 1.87,
+      "text": "WHOOOOOOSH!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 82.94,
+      "end": 87.0,
+      "duration": 4.06,
+      "text": "You blink against the warm, brilliant afternoon sun."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 87.0,
+      "end": 92.06,
+      "duration": 5.06,
+      "text": "You are standing on the sidewalk in front of Oak Creek Elementary in Arizona."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 92.06,
+      "end": 108.38,
+      "duration": 16.32,
+      "text": "The snow is melting rapidly, trickling down the gutters in cool, singing streams. Towering green Saguaro cacti stand tall against the clear turquoise desert sky. The smell of roasted turkey, sweet pumpkin pie, and warm desert breeze fills the air."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 108.38,
+      "end": 110.26,
+      "duration": 1.87,
+      "text": "Hey!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 110.26,
+      "end": 112.32,
+      "duration": 2.06,
+      "text": "a voice shouts."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 112.32,
+      "end": 119.4,
+      "duration": 7.08,
+      "text": "You turn around. Running across the school lawn toward you are your best friends, Maya and Leo!"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 119.4,
+      "end": 124.63,
+      "duration": 5.23,
+      "text": "Maya\u2019s eyes are bright and full of life\u2014the creepy, blank smile completely gone!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 124.63,
+      "end": 126.6,
+      "duration": 1.97,
+      "text": "There you are!"
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 126.6,
+      "end": 129.65,
+      "duration": 3.05,
+      "text": "Maya laughs, catching her breath."
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 129.65,
+      "end": 138.14,
+      "duration": 8.5,
+      "text": "Where did you go? My grandma just pulled the pumpkin pie out of the oven! We've been looking everywhere for you!"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 138.14,
+      "end": 140.02,
+      "duration": 1.87,
+      "text": "Yeah,"
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "narrator",
+      "start": 140.02,
+      "end": 143.86,
+      "duration": 3.84,
+      "text": "Leo grins, tossing a football from hand to hand."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 143.86,
+      "end": 148.85,
+      "duration": 4.99,
+      "text": "It\u2019s Thanksgiving! What are you doing standing by the gym?"
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 148.85,
+      "end": 151.61,
+      "duration": 2.76,
+      "text": "You look down at your coat pocket."
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 151.61,
+      "end": 160.49,
+      "duration": 8.88,
+      "text": "Tucked safely inside your pocket is Pip's tattered detective pencil stub, and a single, star-shaped holiday cookie wrapped in a napkin from Granny's kitchen."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 160.49,
+      "end": 164.33,
+      "duration": 3.84,
+      "text": "You smile\u2014a real, warm, confident smile."
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "narrator",
+      "start": 164.33,
+      "end": 174.72,
+      "duration": 10.39,
+      "text": "For your whole life, you wondered why your mind worked differently. You wondered why you saw patterns others missed, and why you couldn't always explain how you knew the truth."
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 174.72,
+      "end": 176.88,
+      "duration": 2.16,
+      "text": "Now, you know."
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "narrator",
+      "start": 176.88,
+      "end": 181.06,
+      "duration": 4.18,
+      "text": "You aren't broken. You aren't strange."
+    },
+    {
+      "elId": "seg-34",
+      "idx": 34,
+      "speaker": "narrator",
+      "start": 181.06,
+      "end": 183.34,
+      "duration": 2.28,
+      "text": "You are the Unbound."
+    },
+    {
+      "elId": "seg-35",
+      "idx": 35,
+      "speaker": "narrator",
+      "start": 183.34,
+      "end": 186.02,
+      "duration": 2.69,
+      "text": "And you are ready for tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "sceneId": "c6p4",
+  "title": "The Thunder from the Sky",
+  "totalDuration": 151.9,
+  "file": "audio/c6p4.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 1.87,
+      "duration": 1.87,
+      "text": "ROOOOOOOOOOOOOOOOAR!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 1.87,
+      "end": 8.47,
+      "duration": 6.6,
+      "text": "It didn't sound like a dog. It sounded like an avalanche of thunder ripping through the heavens!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 8.47,
+      "end": 16.85,
+      "duration": 8.38,
+      "text": "The entire five-hundred-foot tower shuddered to its very foundation! Dust and icicles rained down from the iron rafters!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 16.85,
+      "end": 21.65,
+      "duration": 4.8,
+      "text": "The Clockmaker froze mid-sentence, his eyes darting upward in utter shock."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 21.65,
+      "end": 24.38,
+      "duration": 2.74,
+      "text": "What in St. Nick's name is that?!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 24.38,
+      "end": 27.65,
+      "duration": 3.26,
+      "text": "CRRRRRRRRR-AAAAAASH!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 27.65,
+      "end": 35.09,
+      "duration": 7.44,
+      "text": "The massive stained-glass skylight four hundred feet above the clock tower shattered into a million glittering shards of colored glass!"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 35.09,
+      "end": 43.78,
+      "duration": 8.69,
+      "text": "Falling straight out of the snowy night sky, surrounded by swirling clouds of red-and-white peppermint canvas and roaring propane flame, was a shadow."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 43.78,
+      "end": 47.23,
+      "duration": 3.46,
+      "text": "A colossal, white, muscular shadow."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 47.23,
+      "end": 49.1,
+      "duration": 1.87,
+      "text": "BOOOOOOOOOOOOOOOOM!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 49.1,
+      "end": 57.53,
+      "duration": 8.42,
+      "text": "The creature landed in the center of the iron platform with an earth-shattering crash that bent the steel girders and sent the Clockwork Praetorians staggering!"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 57.53,
+      "end": 59.52,
+      "duration": 1.99,
+      "text": "It was Titan."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 59.52,
+      "end": 64.78,
+      "duration": 5.26,
+      "text": "Except... Titan didn't look like a normal bulldog anymore."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 64.78,
+      "end": 78.53,
+      "duration": 13.75,
+      "text": "He was standing on all four massive, tree-trunk paws. He was already the size of a grizzly bear\u2014easily ten feet tall at the shoulders, his white coat gleaming like fresh glacier ice, his black freckles standing out like war paint!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 78.53,
+      "end": 83.28,
+      "duration": 4.75,
+      "text": "Clutched in his giant front paw was Granny's hand-stitched burlap pouch."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 83.28,
+      "end": 89.88,
+      "duration": 6.6,
+      "text": "Titan looked at the soldiers holding you. He looked at Pip's empty hat lying on the grating."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 89.88,
+      "end": 97.27,
+      "duration": 7.39,
+      "text": "A low, deep, volcanic growl rumbled in Titan's massive chest, so powerful it rattled your teeth inside your skull."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 97.27,
+      "end": 106.56,
+      "duration": 9.29,
+      "text": "Without breaking eye contact with the Clockmaker, the giant bulldog reached into the pouch, pulled out another of Granny's Courage Nubbies, and popped it into his mouth."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 106.56,
+      "end": 108.43,
+      "duration": 1.87,
+      "text": "CHOMP."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 108.43,
+      "end": 111.74,
+      "duration": 3.31,
+      "text": "You swear, right before your very eyes..."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 111.74,
+      "end": 113.76,
+      "duration": 2.02,
+      "text": "HE GOT BIGGER."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 113.76,
+      "end": 126.12,
+      "duration": 12.36,
+      "text": "His muscular shoulders swelled to the size of steam engines! His broad chest expanded until he stood twenty feet tall, his little docked nub tail buzzing with fierce, unstoppable protective fury!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 126.12,
+      "end": 130.99,
+      "duration": 4.87,
+      "text": "The Clockmaker backed away, his obsidian watch trembling in his hand."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 130.99,
+      "end": 133.42,
+      "duration": 2.42,
+      "text": "W-What is that thing?!"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 133.42,
+      "end": 136.39,
+      "duration": 2.98,
+      "text": "the Clockmaker stammered in horror."
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 136.39,
+      "end": 147.31,
+      "duration": 10.92,
+      "text": "Titan looked down at the Clockmaker with glowing, fearless brown eyes. When he spoke, his voice was a thunderous, room-shaking roar that shook the very gears of the universe:"
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "titan",
+      "start": 147.31,
+      "end": 151.9,
+      "duration": 4.58,
+      "text": "I AM TITAN. AND NOBODY TOUCHES MY FRIEND."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sceneId": "c5p4",
+  "title": "Granny's Table",
+  "totalDuration": 154.03,
+  "file": "audio/c5p4.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.14,
+      "duration": 6.14,
+      "text": "Barnaby led the way through a hidden archway behind his tool racks, pushing aside a heavy wool curtain."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 6.14,
+      "end": 9.26,
+      "duration": 3.12,
+      "text": "You step through the doorway\u2014and gasp."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 9.26,
+      "end": 16.58,
+      "duration": 7.32,
+      "text": "You didn't step into a junkyard. You stepped into the warmest, coziest cottage you have ever seen."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 16.58,
+      "end": 35.33,
+      "duration": 18.74,
+      "text": "A stone hearth crackled with sweet-smelling applewood logs, casting a golden glow over polished cedar walls lined with quilted tapestries and copper pots. The air was thick with the most intoxicating holiday smells: hot buttered rolls, roasted honey-glazed vegetables, bubbling gravy, sweet cinnamon, and fresh-baked bread."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 35.33,
+      "end": 37.2,
+      "duration": 1.87,
+      "text": "Darlings!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 37.2,
+      "end": 41.52,
+      "duration": 4.32,
+      "text": "a melodious, joyful voice called out from the kitchen stove."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 41.52,
+      "end": 44.14,
+      "duration": 2.62,
+      "text": "In walked Barnaby's wife."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 44.14,
+      "end": 69.31,
+      "duration": 25.18,
+      "text": "She was an elf, but she took your breath away. She had rich, dark brown hair swept up in a loose, graceful twist, and warm porcelain skin. Although Barnaby had told you they were the exact same age, she looked stunningly young. But when she smiled at you, you could see why\u2014her deep, dancing eyes held a brilliant, ageless light. It was the pure, concentrated magic of holiday love."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 69.31,
+      "end": 72.38,
+      "duration": 3.07,
+      "text": "Granny is so glad you made it safely,"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 72.38,
+      "end": 76.44,
+      "duration": 4.06,
+      "text": "she said warmly, wiping her hands on a festive apron."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 76.44,
+      "end": 83.04,
+      "duration": 6.6,
+      "text": "Barnaby looked at her with pure devotion in his eyes. He leaned down and whispered to you:"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 83.04,
+      "end": 93.05,
+      "duration": 10.01,
+      "text": "She's everyone's Granny, you see. Put into this world to remind her children and grandchildren that they are loved, and that they are truly, wonderfully special."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 93.05,
+      "end": 101.21,
+      "duration": 8.16,
+      "text": "Granny smiled, and with a gentle flick of her wooden spoon, the rustic oak table in the center of the room seemed to bloom like a holiday garden."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 101.21,
+      "end": 103.08,
+      "duration": 1.87,
+      "text": "SHWIIIIIP!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 103.08,
+      "end": 114.31,
+      "duration": 11.23,
+      "text": "Platters of golden-brown roast potatoes, steaming bowls of sweet glazed carrots, piping-hot biscuits dripping with honey, and bowls of savory, rich stew appeared in a flash of sparkling gold light!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 114.31,
+      "end": 126.24,
+      "duration": 11.93,
+      "text": "Titan let out a squeal of pure, unadulterated joy that sounded like a tea kettle at full boil. He plopped down by the table, his little docked tail wagging so fast it buffed the floorboards!"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "pip",
+      "start": 126.24,
+      "end": 128.76,
+      "duration": 2.52,
+      "text": "Eat, my darlings,"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 128.76,
+      "end": 132.96,
+      "duration": 4.2,
+      "text": "Granny said gently, placing a warm hand on your shoulder."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "pip",
+      "start": 132.96,
+      "end": 137.86,
+      "duration": 4.9,
+      "text": "You have a long journey ahead, and every bite has a bit of magic to give you strength."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 137.86,
+      "end": 154.03,
+      "duration": 16.18,
+      "text": "You take a seat between Pip and Titan. You take your first bite of the warm, buttery roll\u2014and you swear you can taste pure happiness. It isn't just delicious; with every bite, the cold and exhaustion in your bones melt away, replaced by courage and energy."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "sceneId": "c4p1",
+  "title": "The Mountain of Forgotten Gears",
+  "totalDuration": 119.35,
+  "file": "audio/c4p1.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.99,
+      "duration": 4.99,
+      "text": "The peppermint balloon drifted down through the swirling snow of the East Chasm."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.99,
+      "end": 23.59,
+      "duration": 18.6,
+      "text": "The canyon walls were sheer cliffs of jagged black rock, but the canyon floor looked like an explosion in a colossal clock factory. Centuries of discarded machinery were piled fifty feet high: rusted iron balance wheels, giant brass pendulums, snapped springs, and mountains of hollow toy parts half-buried in the snow."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "hero",
+      "start": 23.59,
+      "end": 26.06,
+      "duration": 2.47,
+      "text": "Keep her steady, Titan,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 26.06,
+      "end": 29.33,
+      "duration": 3.26,
+      "text": "you say, peering over the wicker edge."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "hero",
+      "start": 29.33,
+      "end": 31.44,
+      "duration": 2.11,
+      "text": "Look for an entrance."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 31.44,
+      "end": 43.61,
+      "duration": 12.17,
+      "text": "Titan set the balloon down on a snowy ledge right in front of a colossal, rusted vault door built directly into the cliff face. Above the door was a hand-painted wooden sign with crooked white lettering:"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 43.61,
+      "end": 52.73,
+      "duration": 9.12,
+      "text": "PRIVATE PROPERTY. KEEP OUT. THIS MEANS YOU, NUTCRACKERS. AND ESPECIALLY YOU, SANTA."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "pip",
+      "start": 52.73,
+      "end": 55.25,
+      "duration": 2.52,
+      "text": "This is Barnaby's workshop,"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 55.25,
+      "end": 59.81,
+      "duration": 4.56,
+      "text": "Titan whispered, his big black-spotted ears twitching nervously."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 59.81,
+      "end": 65.93,
+      "duration": 6.12,
+      "text": "He doesn't like visitors. Or noise. Or people who touch his stuff."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 65.93,
+      "end": 72.02,
+      "duration": 6.1,
+      "text": "Pip hopped out of the basket onto the snow, puffing his green trench coat out with grandiose pride."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 72.02,
+      "end": 73.9,
+      "duration": 1.87,
+      "text": "Nonsense!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 73.9,
+      "end": 77.5,
+      "duration": 3.6,
+      "text": "Pip declared, adjusting his houndstooth cap."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "pip",
+      "start": 77.5,
+      "end": 88.03,
+      "duration": 10.54,
+      "text": "Master Detective Pip possesses the diplomatic charm of a seasoned ambassador! A simple, professional knocking sequence shall alert our grumpy friend to my prestigious arrival!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 88.03,
+      "end": 96.72,
+      "duration": 8.69,
+      "text": "Pip strutted up to the iron door. Beside the latch sat an antique, carved wooden clown head with an open brass horn in its mouth."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 96.72,
+      "end": 99.17,
+      "duration": 2.45,
+      "text": "Do not fear, recruit,"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 99.17,
+      "end": 101.81,
+      "duration": 2.64,
+      "text": "Pip said, winking at you."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "pip",
+      "start": 101.81,
+      "end": 104.11,
+      "duration": 2.3,
+      "text": "Watch the master at work."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 104.11,
+      "end": 108.41,
+      "duration": 4.3,
+      "text": "Pip leaned forward and gave the horn a mighty, confident HONK."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 108.41,
+      "end": 110.4,
+      "duration": 1.99,
+      "text": "AHOOOOO-GA!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 110.4,
+      "end": 119.35,
+      "duration": 8.95,
+      "text": "A shower of red sparks shot out of the clown's ears. Deep inside the canyon walls, a massive tripwire snapped with a violent TWANG!"
+    }
+  ]
+}

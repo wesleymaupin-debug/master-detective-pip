@@ -1,0 +1,125 @@
+{
+  "sceneId": "c1p6",
+  "title": "The Snowy Alley",
+  "totalDuration": 94.13,
+  "file": "audio/c1p6.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 3.38,
+      "duration": 3.38,
+      "text": "The cold air hits your lungs like ice water."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 3.38,
+      "end": 15.05,
+      "duration": 11.66,
+      "text": "You slam the heavy metal emergency door behind you and lean against it, panting. Arizona shouldn't feel like the North Pole, but the wind howling down the alley cuts straight through your jacket."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 15.05,
+      "end": 20.09,
+      "duration": 5.04,
+      "text": "Behind the metal door, you hear angry wooden fists hammering on the steel:"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 20.09,
+      "end": 24.65,
+      "duration": 4.56,
+      "text": "BAM! BAM! BAM!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 24.65,
+      "end": 30.05,
+      "duration": 5.4,
+      "text": "FESTIVE RESISTER DETECTED! DEPLOYING PURSUIT CONTINGENT!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 30.05,
+      "end": 45.43,
+      "duration": 15.38,
+      "text": "You look down the alley. Towering brick walls hem you in on both sides. Deep snowdrifts block the path to the street, and green garbage dumpsters are covered in foot-thick mounds of snow. You need somewhere to hide, and fast."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 45.43,
+      "end": 49.82,
+      "duration": 4.39,
+      "text": "Suddenly, the air in the center of the alley begins to crackle."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 49.82,
+      "end": 66.02,
+      "duration": 16.2,
+      "text": "It sounds like popping sugar and ticking clock gears. A circle of brilliant, blinding light\u2014glowing warm gold and glacial blue\u2014tears open in the empty air three feet above the ground. Frost crystals spin wildly inside the opening like a miniature hurricane."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 66.02,
+      "end": 70.66,
+      "duration": 4.63,
+      "text": "Before you can even blink, something comes tumbling out of the portal."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 70.66,
+      "end": 72.53,
+      "duration": 1.87,
+      "text": "FLUMP!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 72.53,
+      "end": 77.78,
+      "duration": 5.26,
+      "text": "It lands directly upside-down in the biggest snowdrift next to the green dumpster."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 77.78,
+      "end": 82.03,
+      "duration": 4.25,
+      "text": "The portal snaps shut with a sound like a closing pocket watch."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 82.03,
+      "end": 94.13,
+      "duration": 12.1,
+      "text": "For three seconds, the alley is dead silent. The only thing moving is a bushy, reddish-orange tail with a snow-covered white tip, sticking straight up out of the snowbank and twitching with great indignation."
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "sceneId": "c2p7",
+  "title": "The Clockmaker's Vault",
+  "totalDuration": 198.46,
+  "file": "audio/c2p7.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.15,
+      "duration": 4.15,
+      "text": "You and Pip climb down the stone steps beneath the frozen mill."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.15,
+      "end": 21.0,
+      "duration": 16.85,
+      "text": "At the bottom is a hidden subterranean chamber carved out of solid river bedrock. The ceiling is reinforced with massive, frost-covered oak beams. Through thick blocks of green river ice set into the walls, you can see frozen fish suspended motionless in the current."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 21.0,
+      "end": 25.54,
+      "duration": 4.54,
+      "text": "In the center of the chamber sits an ancient, heavy oak workbench."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 25.54,
+      "end": 38.66,
+      "duration": 13.13,
+      "text": "It is covered in delicate, gleaming tools: brass tweezers, magnifying lenses, miniature anvils, and racks of tiny glass vials filled with glowing, swirling purple liquid\u2014the exact same color as the Cheer Hearth in Arizona!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 38.66,
+      "end": 42.19,
+      "duration": 3.53,
+      "text": "Pip creeps up to the table, his nose twitching."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "pip",
+      "start": 42.19,
+      "end": 49.3,
+      "duration": 7.1,
+      "text": "Good heavens. Someone has been modifying Everfrost's clockwork down here. In secret."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 49.3,
+      "end": 62.45,
+      "duration": 13.15,
+      "text": "You walk around the bench. Resting in the center of the desk is a thick, leather-bound journal bound with tarnished silver clasps. On the front cover, two ornate letters are stamped in worn gold foil:"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 62.45,
+      "end": 64.49,
+      "duration": 2.04,
+      "text": "C. M."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "hero",
+      "start": 64.49,
+      "end": 66.36,
+      "duration": 1.87,
+      "text": "Pip,"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 66.36,
+      "end": 68.26,
+      "duration": 1.9,
+      "text": "you whisper."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "hero",
+      "start": 68.26,
+      "end": 70.51,
+      "duration": 2.26,
+      "text": "Whose journal is this?"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 70.51,
+      "end": 84.6,
+      "duration": 14.09,
+      "text": "Pip steps up beside you on his tiptoes. With trembling paws, he unclasps the silver latch and opens to the final, yellowed page. The handwriting is sharp, precise, and filled with deep, jagged ink strokes:"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 84.6,
+      "end": 88.06,
+      "duration": 3.46,
+      "text": "December 24, 1842."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 88.06,
+      "end": 105.96,
+      "duration": 17.9,
+      "text": "Santa receives the songs, the children's laughter, the warm hearths, and the world's adoration. And what am I? I am the Clockmaker. The man in the grease and shadows. The forgotten architect who keeps his great machine from tearing the world apart."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 105.96,
+      "end": 107.86,
+      "duration": 1.9,
+      "text": "No more."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 107.86,
+      "end": 121.54,
+      "duration": 13.68,
+      "text": "If humanity loves his Christmas so dearly, I shall give it to them forever. The Great Clock will turn back the hours, unspooling yesterday, until every season, every memory, and every ordinary day is swallowed by the frost."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 121.54,
+      "end": 125.16,
+      "duration": 3.62,
+      "text": "They will finally remember who gave them eternity."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 125.16,
+      "end": 127.03,
+      "duration": 1.87,
+      "text": "\u2014 C.M."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 127.03,
+      "end": 129.79,
+      "duration": 2.76,
+      "text": "Silence fills the cold vault."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 129.79,
+      "end": 136.22,
+      "duration": 6.43,
+      "text": "Pip\u2019s jaw dropped open. His paws shook so hard the pages of the journal fluttered."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "pip",
+      "start": 136.22,
+      "end": 139.7,
+      "duration": 3.48,
+      "text": "Santa... Santa had a partner?"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 139.7,
+      "end": 144.19,
+      "duration": 4.49,
+      "text": "Pip whispered, his accent completely gone in sheer disbelief."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "pip",
+      "start": 144.19,
+      "end": 149.16,
+      "duration": 4.97,
+      "text": "The Clockmaker... he didn't just sabotage the clock. He built it."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 149.16,
+      "end": 153.31,
+      "duration": 4.15,
+      "text": "Before you can answer, the stone floor violently trembles!"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 153.31,
+      "end": 155.18,
+      "duration": 1.87,
+      "text": "BOOOOOM."
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 155.18,
+      "end": 163.94,
+      "duration": 8.76,
+      "text": "Deep within the riverbed, the iron drive-shaft groans. Up above, the distant Grand Clock chimes its next backwards hour."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "narrator",
+      "start": 163.94,
+      "end": 165.82,
+      "duration": 1.87,
+      "text": "BONG."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 165.82,
+      "end": 167.69,
+      "duration": 1.87,
+      "text": "Twelve."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 167.69,
+      "end": 178.61,
+      "duration": 10.92,
+      "text": "A warning bell begins to clang on the workbench. A small brass speaker horn crackles to life on the wall, and a familiar, overly cheerful wooden voice echoes through the room:"
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "pip",
+      "start": 178.61,
+      "end": 185.16,
+      "duration": 6.55,
+      "text": "VAULT TAMPERING DETECTED AT SUB-SECTOR WATERMILL. DISPATCHING NUTCRACKER SPECIAL CONTINGENT."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 185.16,
+      "end": 192.58,
+      "duration": 7.42,
+      "text": "Pip snaps the journal shut and shoves it into his coat. He looks up at you with wide, frantic eyes."
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "pip",
+      "start": 192.58,
+      "end": 194.57,
+      "duration": 1.99,
+      "text": "We need to move,"
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 194.57,
+      "end": 196.58,
+      "duration": 2.02,
+      "text": "Pip gasps."
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "pip",
+      "start": 196.58,
+      "end": 198.46,
+      "duration": 1.87,
+      "text": "Right now."
+    }
+  ]
+}

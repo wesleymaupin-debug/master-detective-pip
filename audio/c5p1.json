@@ -1,0 +1,206 @@
+{
+  "sceneId": "c5p1",
+  "title": "The Legend of the Unbound",
+  "totalDuration": 162.53,
+  "file": "audio/c5p1.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 10.56,
+      "duration": 10.56,
+      "text": "Barnaby set his jeweler's glasses on the workbench. The cranky, irritable look on the old elf's face was completely gone, replaced by a deep, quiet reverence."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "hero",
+      "start": 10.56,
+      "end": 12.67,
+      "duration": 2.11,
+      "text": "Who are the Unbound?"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 12.67,
+      "end": 17.54,
+      "duration": 4.87,
+      "text": "you ask, brushing the last of the lavender dust from your coat sleeve."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "hero",
+      "start": 17.54,
+      "end": 20.4,
+      "duration": 2.86,
+      "text": "Why didn't that stuff make me forget?"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 20.4,
+      "end": 23.3,
+      "duration": 2.9,
+      "text": "Because you have the spark, child,"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 23.3,
+      "end": 27.72,
+      "duration": 4.42,
+      "text": "Barnaby said softly, his voice echoing in the warm cavern."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 27.72,
+      "end": 48.29,
+      "duration": 20.57,
+      "text": "Centuries ago, when Everfrost was first carved out of the mountain ice, Santa and the Clockmaker realized that Christmas magic was too wild and powerful for any single being to control. Left alone, it would spill into the mortal world and drown everything in an endless holiday. To build the Great Clock and balance the magic, they needed help."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 48.29,
+      "end": 52.13,
+      "duration": 3.84,
+      "text": "Barnaby walked around his workbench and looked up at you."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 52.13,
+      "end": 60.38,
+      "duration": 8.26,
+      "text": "They needed humans whose minds were wired differently. Humans born with a rare gift. We called them the Unbound."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 60.38,
+      "end": 71.23,
+      "duration": 10.85,
+      "text": "Pip quietly stepped up beside you, his bushy tail stilling. He didn't interrupt. For once, Pip was listening with total, breathless respect."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 71.23,
+      "end": 73.49,
+      "duration": 2.26,
+      "text": "In the ordinary world,"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 73.49,
+      "end": 76.18,
+      "duration": 2.69,
+      "text": "Barnaby continued gently,"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "pip",
+      "start": 76.18,
+      "end": 94.8,
+      "duration": 18.62,
+      "text": "an Unbound child often feels out of place. You might look at things and see patterns that other children walk right past. You might understand how things fit together\u2014how machines tick, how people feel, how puzzles connect\u2014almost by pure intuition, even when you can't find the exact words to explain why."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 94.8,
+      "end": 99.79,
+      "duration": 4.99,
+      "text": "You freeze. A strange warmth spreads through your chest."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 99.79,
+      "end": 114.1,
+      "duration": 14.3,
+      "text": "You think about school. You think about sitting in class, feeling like everyone else had an instruction manual that you were never given. You think about how you always had to hide your thoughts, worried people would think you were strange."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 114.1,
+      "end": 115.99,
+      "duration": 1.9,
+      "text": "Sometimes,"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 115.99,
+      "end": 119.57,
+      "duration": 3.58,
+      "text": "Barnaby said, his kind old eyes meeting yours,"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 119.57,
+      "end": 127.58,
+      "duration": 8.02,
+      "text": "you might have thought that difference was a weakness. Something to be embarrassed about. Something to hide."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 127.58,
+      "end": 132.24,
+      "duration": 4.66,
+      "text": "The old elf gently reached out and tapped your chest, right over your heart."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 132.24,
+      "end": 146.35,
+      "duration": 14.11,
+      "text": "It is not a weakness, child. It is the reason the magic cannot touch you. You carry a tiny spark of the original creation inside your mind. You see through the illusions because you see truth."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 146.35,
+      "end": 149.62,
+      "duration": 3.26,
+      "text": "Barnaby let out a long, heavy breath."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 149.62,
+      "end": 162.53,
+      "duration": 12.91,
+      "text": "There hasn't been an Unbound born in your world for over two hundred years. The Clockmaker thought your kind were extinct. He thought no one alive would ever be able to understand the Great Clock's design."
+    }
+  ]
+}

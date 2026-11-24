@@ -1,0 +1,71 @@
+{
+  "sceneId": "c2p6c",
+  "title": "The Dusty Floorboards",
+  "totalDuration": 36.82,
+  "file": "audio/c2p6c.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 21.91,
+      "duration": 21.91,
+      "text": "You kneel near the giant iron shaft in the center of the floor. You brush away the thick dust with your boot. The wooden planks aren't nailed down in straight lines\u2014they're carved in concentric circles, like the face of an enormous wooden clock! Roman numerals are carved into the timber, from I to XII... and right at the bottom, an impossible numeral: XIII."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "hero",
+      "start": 21.91,
+      "end": 23.78,
+      "duration": 1.87,
+      "text": "Pip!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 23.78,
+      "end": 25.66,
+      "duration": 1.87,
+      "text": "you shout."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "hero",
+      "start": 25.66,
+      "end": 28.13,
+      "duration": 2.47,
+      "text": "The floor is a clock dial!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 28.13,
+      "end": 30.0,
+      "duration": 1.87,
+      "text": "I knew that!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 30.0,
+      "end": 33.38,
+      "duration": 3.38,
+      "text": "Pip shouts back, grabbing the stove rod."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "pip",
+      "start": 33.38,
+      "end": 36.82,
+      "duration": 3.43,
+      "text": "It just needed the master ignition engage-lever!"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "sceneId": "c5p2",
+  "title": "The Stolen Balance",
+  "totalDuration": 157.58,
+  "file": "audio/c5p2.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 8.98,
+      "duration": 8.98,
+      "text": "Pip slowly took off his houndstooth detective cap, holding it in his paws. His yellow eyes were wide with wonder as he looked up at you."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "pip",
+      "start": 8.98,
+      "end": 10.85,
+      "duration": 1.87,
+      "text": "Good heavens,"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 10.85,
+      "end": 15.26,
+      "duration": 4.42,
+      "text": "Pip whispered softly, his pompous accent completely gone."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "pip",
+      "start": 15.26,
+      "end": 22.8,
+      "duration": 7.54,
+      "text": "I thought... I thought I was the one rescuing you. But all along... you're the one who was meant to save us."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "hero",
+      "start": 22.8,
+      "end": 25.15,
+      "duration": 2.35,
+      "text": "We're a team, Pip,"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 25.15,
+      "end": 28.49,
+      "duration": 3.34,
+      "text": "you say, looking down at the little fox."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "hero",
+      "start": 28.49,
+      "end": 32.06,
+      "duration": 3.58,
+      "text": "We wouldn't have made it past the snowbank without you."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 32.06,
+      "end": 40.22,
+      "duration": 8.16,
+      "text": "Pip\u2019s ears twitched with pride. He quickly jammed his hat back onto his head, cleared his throat, and puffed out his chest:"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 40.22,
+      "end": 51.65,
+      "duration": 11.42,
+      "text": "Ahem! Well! Naturally! A brilliant partnership between legendary intuition and tactical genius! Precisely as I calculated!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 51.65,
+      "end": 56.86,
+      "duration": 5.21,
+      "text": "Barnaby chuckled\u2014a warm, gravelly sound\u2014and turned back to his workbench."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 56.86,
+      "end": 65.16,
+      "duration": 8.3,
+      "text": "With both hands, he unrolled a colossal, glowing parchment blueprint across the iron table, weighing down the corners with two brass gears."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 65.16,
+      "end": 75.82,
+      "duration": 10.66,
+      "text": "The blueprint showed the towering, intricate anatomy of the Grand Christmas Clock: thousands of interlocking wheels, spinning balance springs, and a colossal crystal core at the very center."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "pip",
+      "start": 75.82,
+      "end": 77.69,
+      "duration": 1.87,
+      "text": "Now,"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 77.69,
+      "end": 81.62,
+      "duration": 3.94,
+      "text": "Barnaby said, his voice turning sharp and focused."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "pip",
+      "start": 81.62,
+      "end": 86.71,
+      "duration": 5.09,
+      "text": "Here is what my old master has done. Look at the central escapement."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 86.71,
+      "end": 100.82,
+      "duration": 14.11,
+      "text": "You lean over the parchment. Immediately, your eyes zero in on the center of the diagram. While Pip and Barnaby squint at the tiny mechanical notes, you intuitively trace the flow of energy through the brass pipes."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "hero",
+      "start": 100.82,
+      "end": 102.7,
+      "duration": 1.87,
+      "text": "The pendulum,"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 102.7,
+      "end": 106.94,
+      "duration": 4.25,
+      "text": "you say, pointing your finger at a massive gear in the center."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "hero",
+      "start": 106.94,
+      "end": 109.97,
+      "duration": 3.02,
+      "text": "It\u2019s missing its teeth on the right side."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 109.97,
+      "end": 113.74,
+      "duration": 3.77,
+      "text": "Barnaby\u2019s white eyebrows shot up in astonishment."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 113.74,
+      "end": 120.84,
+      "duration": 7.1,
+      "text": "Great gears and gaskets... you saw it in five seconds. It took me three months to find that fault."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 120.84,
+      "end": 124.87,
+      "duration": 4.03,
+      "text": "Barnaby pointed a leather-gloved finger at the missing gear."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 124.87,
+      "end": 143.5,
+      "duration": 18.62,
+      "text": "The Clockmaker didn't destroy the Great Clock. He removed the Forward Escapement Gear\u2014the Master Cog that allows time to tick into tomorrow. He replaced it with an Inverted Spiral that forces the clock to turn backward. That\u2019s why the hours are counting down: thirteen, twelve, eleven..."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "narrator",
+      "start": 143.5,
+      "end": 146.81,
+      "duration": 3.31,
+      "text": "Barnaby looked at you with grim urgency."
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "narrator",
+      "start": 146.81,
+      "end": 157.58,
+      "duration": 10.78,
+      "text": "If that clock reaches zero before Christmas Day, the reverse loop locks forever. Yesterday will vanish. And the world will never see tomorrow again."
+    }
+  ]
+}

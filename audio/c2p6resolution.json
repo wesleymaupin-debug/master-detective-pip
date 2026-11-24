@@ -1,0 +1,116 @@
+{
+  "sceneId": "c2p6resolution",
+  "title": "The Trapdoor Opens",
+  "totalDuration": 60.53,
+  "file": "audio/c2p6resolution.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 3.77,
+      "duration": 3.77,
+      "text": "You and Pip stand over the circular floorboards."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 3.77,
+      "end": 13.49,
+      "duration": 9.72,
+      "text": "With the stove lever engaged, the Roman numerals on the floor begin to hum with a soft, pulsing violet light. The number XIII clicks free."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 13.49,
+      "end": 15.58,
+      "duration": 2.09,
+      "text": "Grab the iron ring!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 15.58,
+      "end": 17.59,
+      "duration": 2.02,
+      "text": "you tell Pip."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 17.59,
+      "end": 23.78,
+      "duration": 6.19,
+      "text": "You and Pip both grab the cold iron ring embedded in the numeral XIII and pull with all your strength."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 23.78,
+      "end": 26.86,
+      "duration": 3.07,
+      "text": "GRRRRRR-CLANK-CLICK!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 26.86,
+      "end": 39.86,
+      "duration": 13.01,
+      "text": "The circular floorboards rotate with the heavy grind of ancient stone. A section of the floor slides open like a puzzle box, revealing a narrow flight of spiral stone stairs descending deep beneath the frozen river."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 39.86,
+      "end": 45.58,
+      "duration": 5.71,
+      "text": "From the darkness below rises the smell of cold river water, ozone, and old parchment."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 45.58,
+      "end": 51.22,
+      "duration": 5.64,
+      "text": "Pip pulls his crooked hat down tight. His eyes are wide with wonder."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 51.22,
+      "end": 54.14,
+      "duration": 2.93,
+      "text": "Well, well, young recruit,"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 54.14,
+      "end": 56.52,
+      "duration": 2.38,
+      "text": "Pip whispers softly."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 56.52,
+      "end": 60.53,
+      "duration": 4.01,
+      "text": "It appears our little case has just officially gone underground."
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "sceneId": "c3p6",
+  "title": "The Secret of the Apprentice",
+  "totalDuration": 203.06,
+  "file": "audio/c3p6.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.74,
+      "duration": 6.74,
+      "text": "The roaring wind faded to a peaceful, freezing hum as the peppermint balloon leveled off high above Everfrost."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 6.74,
+      "end": 26.28,
+      "duration": 19.54,
+      "text": "Below you, the village looked like a dark fairy-tale kingdom carved from ice and shadow. Snow-capped roofs and frozen canals wound through the valley under a sky dancing with emerald and violet auroras. In the distance, the Grand Clock stood like a silent mountain of brass, its pendulum still swinging in cold, ominous silence."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 26.28,
+      "end": 42.58,
+      "duration": 16.3,
+      "text": "Titan was leaning his massive, ninety-pound head directly against your knee, letting out contented snorts as you vigorously scratched the sweet spot right behind his black-speckled ears. His little docked tail was buzzing back and forth so fast it was a white blur against the wicker basket."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 42.58,
+      "end": 44.78,
+      "duration": 2.21,
+      "text": "CRUNCH-MUNCH-CRUNCH."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 44.78,
+      "end": 46.66,
+      "duration": 1.87,
+      "text": "You are an angel,"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 46.66,
+      "end": 53.14,
+      "duration": 6.48,
+      "text": "Titan sighed, swallowing another turkey nubbie and leaning his heavy weight affectionately against your legs."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "pip",
+      "start": 53.14,
+      "end": 65.45,
+      "duration": 12.31,
+      "text": "A small, coat-wearing angel of savory treats and elite scratching technique. I would fly into a volcano for you. As long as the volcano was kept at a comfortable, non-scary temperature."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 65.45,
+      "end": 72.43,
+      "duration": 6.98,
+      "text": "Pip leaned against the brass railing, his trench coat blowing in the wind, his fancy British accent fully restored:"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 72.43,
+      "end": 80.35,
+      "duration": 7.92,
+      "text": "Ahem. An adequate extraction, Titan. Slightly lacking in military decorum, but acceptable."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 80.35,
+      "end": 86.83,
+      "duration": 6.48,
+      "text": "Pip pulled the thick, leather-bound journal of C.M. from his coat and laid it across an oak navigation chest."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 86.83,
+      "end": 88.7,
+      "duration": 1.87,
+      "text": "Now then,"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 88.7,
+      "end": 90.98,
+      "duration": 2.28,
+      "text": "Pip said solemnly."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "pip",
+      "start": 90.98,
+      "end": 102.48,
+      "duration": 11.5,
+      "text": "We must decipher the Clockmaker\u2019s notes. The clock has struck twelve. Time is running backward. We need to know how to stop the primary escapement before Christmas Day."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 102.48,
+      "end": 109.99,
+      "duration": 7.51,
+      "text": "Titan leaned his massive head over the table, squinting through his flight goggles at the gold-embossed letters on the cover: C.M."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 109.99,
+      "end": 114.72,
+      "duration": 4.73,
+      "text": "Titan gasped. His little docked tail froze."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 114.72,
+      "end": 116.88,
+      "duration": 2.16,
+      "text": "Sweet mother of gravy..."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 116.88,
+      "end": 120.05,
+      "duration": 3.17,
+      "text": "Titan whispered, his jowls quivering."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "pip",
+      "start": 120.05,
+      "end": 122.74,
+      "duration": 2.69,
+      "text": "That\u2019s Barnaby's master's journal."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 122.74,
+      "end": 125.69,
+      "duration": 2.95,
+      "text": "You and Pip both turn to look at him."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "hero",
+      "start": 125.69,
+      "end": 127.68,
+      "duration": 1.99,
+      "text": "Who is Barnaby?"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 127.68,
+      "end": 129.55,
+      "duration": 1.87,
+      "text": "you ask."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "pip",
+      "start": 129.55,
+      "end": 131.45,
+      "duration": 1.9,
+      "text": "Barnaby Grumble,"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 131.45,
+      "end": 136.61,
+      "duration": 5.16,
+      "text": "Titan whispered, looking nervously at the clouds as if someone might be listening."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "pip",
+      "start": 136.61,
+      "end": 147.38,
+      "duration": 10.78,
+      "text": "The old master clock-smith. Centurys ago, before Everfrost was built, Barnaby was the Clockmaker's only apprentice. He helped forge the original gears."
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "pip",
+      "start": 147.38,
+      "end": 149.26,
+      "duration": 1.87,
+      "text": "An apprentice?!"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 149.26,
+      "end": 152.28,
+      "duration": 3.02,
+      "text": "Pip shouted, his tail bristling."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "pip",
+      "start": 152.28,
+      "end": 156.1,
+      "duration": 3.82,
+      "text": "Where is he?! Why haven't I found him?!"
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "pip",
+      "start": 156.1,
+      "end": 158.16,
+      "duration": 2.06,
+      "text": "Because he's in hiding!"
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 158.16,
+      "end": 160.06,
+      "duration": 1.9,
+      "text": "Titan said."
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "pip",
+      "start": 160.06,
+      "end": 180.19,
+      "duration": 20.14,
+      "text": "When the Clockmaker started going mad with jealousy, Barnaby tried to warn Santa. The Clockmaker locked Barnaby out, and now the Nutcrackers are hunting him. He's holed up in the Clockwork Scrap-Junkyard in the East Chasm. Nobody goes there. It's full of broken toys, guard traps, and... and spooky noises!"
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 180.19,
+      "end": 185.54,
+      "duration": 5.35,
+      "text": "Titan shivered, whimpered, and leaned all of his heavy weight into your lap for comfort."
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "narrator",
+      "start": 185.54,
+      "end": 193.56,
+      "duration": 8.02,
+      "text": "You smile, giving his big blocky head another warm scratch, and look out through the clouds at the jagged, icy peaks of the East Chasm."
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "hero",
+      "start": 193.56,
+      "end": 195.43,
+      "duration": 1.87,
+      "text": "Titan,"
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "narrator",
+      "start": 195.43,
+      "end": 197.62,
+      "duration": 2.18,
+      "text": "you say gently."
+    },
+    {
+      "elId": "seg-34",
+      "idx": 34,
+      "speaker": "hero",
+      "start": 197.62,
+      "end": 203.06,
+      "duration": 5.45,
+      "text": "Turn the balloon toward the East Chasm. We're going to meet Barnaby."
+    }
+  ]
+}

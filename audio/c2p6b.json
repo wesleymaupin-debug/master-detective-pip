@@ -1,0 +1,89 @@
+{
+  "sceneId": "c2p6b",
+  "title": "The Cast-Iron Stove",
+  "totalDuration": 45.94,
+  "file": "audio/c2p6b.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 9.14,
+      "duration": 9.14,
+      "text": "You crouch by the little cast-iron stove. The copper pipe doesn't go up through the roof to vent smoke\u2014it runs straight DOWN through the wooden floor!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 9.14,
+      "end": 11.26,
+      "duration": 2.11,
+      "text": "Pip rushes over."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 11.26,
+      "end": 15.43,
+      "duration": 4.18,
+      "text": "Careful, recruit, that's my emergency peppermint brew!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 15.43,
+      "end": 21.41,
+      "duration": 5.98,
+      "text": "Pip grabs the kettle handle, but his oversized sleeve catches on the stove's iron damper rod."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 21.41,
+      "end": 23.35,
+      "duration": 1.94,
+      "text": "CLANK-CREEEAAAK!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 23.35,
+      "end": 38.06,
+      "duration": 14.71,
+      "text": "Pip accidentally yanks the rod like a giant lever! The kettle rattles, a blast of compressed air shoots out from beneath the hearth, and a cloud of soot blows across the room\u2014sweeping three inches of dust right off the floorboards around the central shaft!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "pip",
+      "start": 38.06,
+      "end": 40.03,
+      "duration": 1.97,
+      "text": "GREAT CRACKERS!"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 40.03,
+      "end": 43.39,
+      "duration": 3.36,
+      "text": "Pip yells, waving his paws in the soot."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 43.39,
+      "end": 45.94,
+      "duration": 2.54,
+      "text": "A deliberate tactical dusting!"
+    }
+  ]
+}

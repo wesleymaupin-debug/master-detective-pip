@@ -1,0 +1,125 @@
+{
+  "sceneId": "c7p2",
+  "title": "The Heart of the Pendulum",
+  "totalDuration": 76.42,
+  "file": "audio/c7p2.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 3.84,
+      "duration": 3.84,
+      "text": "You scoop up Barnaby's forged star-silver cog."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 3.84,
+      "end": 13.56,
+      "duration": 9.72,
+      "text": "The Great Pendulum was swinging in wild, erratic arcs just ten feet in front of you. Purple temporal lightning crackled across the primary escapement."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 13.56,
+      "end": 22.1,
+      "duration": 8.54,
+      "text": "High above the platform, the giant bronze clock face shuddered. The massive hour hand jerked backward toward the final zero mark."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 22.1,
+      "end": 23.98,
+      "duration": 1.87,
+      "text": "BONG."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 23.98,
+      "end": 25.85,
+      "duration": 1.87,
+      "text": "One."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 25.85,
+      "end": 28.49,
+      "duration": 2.64,
+      "text": "Less than sixty seconds!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 28.49,
+      "end": 31.94,
+      "duration": 3.46,
+      "text": "Barnaby yelled, scrambling to his feet."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 31.94,
+      "end": 38.86,
+      "duration": 6.91,
+      "text": "Once it strikes zero, the magic locks! You have to disengage the black reverse-spiral!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 38.86,
+      "end": 42.82,
+      "duration": 3.96,
+      "text": "You leap onto the vibrating central balance platform."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 42.82,
+      "end": 51.43,
+      "duration": 8.62,
+      "text": "In the center of the housing sits the Clockmaker's cursed mechanism: a jagged spiral of black iron locked tight with three heavy brass alignment pins."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 51.43,
+      "end": 57.79,
+      "duration": 6.36,
+      "text": "Your mind hums with that quiet, extraordinary clarity. You are the Unbound."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 57.79,
+      "end": 69.98,
+      "duration": 12.19,
+      "text": "Where anyone else would see a terrifying maze of spinning blades and crushing gears, your brain instantly sees the hidden rhythm\u2014the subtle pause between ticks, the exact tension of the springs, the way the pieces breathe together."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 69.98,
+      "end": 76.42,
+      "duration": 6.43,
+      "text": "To remove the black spiral and lock the silver Forward Cog into place, which sequence do you execute?"
+    }
+  ]
+}

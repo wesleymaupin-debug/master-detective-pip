@@ -1,0 +1,161 @@
+{
+  "sceneId": "c2p2",
+  "title": "The Clue in the Snow",
+  "totalDuration": 91.58,
+  "file": "audio/c2p2.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 8.93,
+      "duration": 8.93,
+      "text": "Pip\u2019s ears twitched forward. He dropped to all four paws, crawled over to the drift, and pressed his fuzzy ear directly into the snow."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "pip",
+      "start": 8.93,
+      "end": 10.8,
+      "duration": 1.87,
+      "text": "Good heavens,"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 10.8,
+      "end": 13.56,
+      "duration": 2.76,
+      "text": "he whispered, his eyes widening."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "pip",
+      "start": 13.56,
+      "end": 24.65,
+      "duration": 11.09,
+      "text": "You're right. It's the stolen time. The Clockmaker\u2019s machinery isn't just dumping Christmas magic into your world\u2014it's vacuuming up everything else and burying it in the snow!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 24.65,
+      "end": 33.02,
+      "duration": 8.38,
+      "text": "Underneath the jumble of summer picnics and birthday parties, you hear a rhythmic, metallic whisper ticking in time with the distant Grand Clock:"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 33.02,
+      "end": 35.59,
+      "duration": 2.57,
+      "text": "Tick... tick... tick..."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 35.59,
+      "end": 40.27,
+      "duration": 4.68,
+      "text": "When the thirteenth bell sighs... the cog turns where the cold river lies."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "hero",
+      "start": 40.27,
+      "end": 42.14,
+      "duration": 1.87,
+      "text": "Wait,"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 42.14,
+      "end": 44.59,
+      "duration": 2.45,
+      "text": "you say, looking up."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "hero",
+      "start": 44.59,
+      "end": 51.19,
+      "duration": 6.6,
+      "text": "Did you hear that part? When the thirteenth bell sighs, the cog turns where the cold river lies!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 51.19,
+      "end": 60.89,
+      "duration": 9.7,
+      "text": "Pip froze. He slowly stood up on his hind legs, dusted off his knees, and pulled a tattered little notebook and pencil stub from his coat pocket."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 60.89,
+      "end": 62.76,
+      "duration": 1.87,
+      "text": "Aha!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 62.76,
+      "end": 67.15,
+      "duration": 4.39,
+      "text": "Pip gasped, his accent slipping into genuine frustration."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "pip",
+      "start": 67.15,
+      "end": 82.01,
+      "duration": 14.86,
+      "text": "That blasted phrase again! I\u2019ve been hearing that infernal riddle for three weeks! I searched Santa\u2019s deep-freeze ice cellar\u2014nothing but frozen eggnog! I searched the Glacier Caves\u2014nothing but grumpy polar bears!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 82.01,
+      "end": 84.94,
+      "duration": 2.93,
+      "text": "Pip threw his little paws in the air."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 84.94,
+      "end": 88.75,
+      "duration": 3.82,
+      "text": "What in St. Nick's beard does 'where the cold river lies' mean?!"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 88.75,
+      "end": 91.58,
+      "duration": 2.83,
+      "text": "What do you tell Pip this clue means?"
+    }
+  ]
+}

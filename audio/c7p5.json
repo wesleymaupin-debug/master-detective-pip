@@ -1,0 +1,170 @@
+{
+  "sceneId": "c7p5",
+  "title": "The Clockmaker's Redemption",
+  "totalDuration": 106.78,
+  "file": "audio/c7p5.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.98,
+      "duration": 6.98,
+      "text": "Titan walked over on his four massive paws, letting out a gentle, happy snort that blew confetti off Pip's head."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 6.98,
+      "end": 11.18,
+      "duration": 4.2,
+      "text": "With a soft, magical shimmer, Titan began to shrink."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 11.18,
+      "end": 26.02,
+      "duration": 14.83,
+      "text": "His twenty-foot battle-frame melted away until he was back to his normal, cuddly, ninety-pound American Bulldog self. He flopped onto his belly across your legs with a contented groan, his little docked nub tail thumping the floor: thump-thump-thump."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 26.02,
+      "end": 30.1,
+      "duration": 4.08,
+      "text": "Across the platform, the Clockmaker slowly sat up."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 30.1,
+      "end": 41.02,
+      "duration": 10.92,
+      "text": "His obsidian watch was cracked and lifeless. He looked out through the shattered skylight at Everfrost, glowing with golden holiday warmth, the Great Clock singing its forward song."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 41.02,
+      "end": 46.42,
+      "duration": 5.4,
+      "text": "For the first time in centuries, the cold, bitter sneer was gone from his face."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 46.42,
+      "end": 49.9,
+      "duration": 3.48,
+      "text": "Tears traced lines through the soot on his cheeks."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 49.9,
+      "end": 52.37,
+      "duration": 2.47,
+      "text": "It's... it's beautiful,"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 52.37,
+      "end": 57.34,
+      "duration": 4.97,
+      "text": "the Clockmaker whispered, his hands trembling as he watched the gears turn."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 57.34,
+      "end": 60.82,
+      "duration": 3.48,
+      "text": "I forgot... how beautiful tomorrow could be."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 60.82,
+      "end": 68.86,
+      "duration": 8.04,
+      "text": "Barnaby walked over to his old master. He didn't raise his wrench. He didn't call the guards."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 68.86,
+      "end": 74.57,
+      "duration": 5.71,
+      "text": "The broad-shouldered elf reached down with his calloused hand, helping the Clockmaker to his feet."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 74.57,
+      "end": 77.35,
+      "duration": 2.78,
+      "text": "You built a wonder, master,"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 77.35,
+      "end": 81.82,
+      "duration": 4.46,
+      "text": "Barnaby said softly, his braided beard brushing his chest."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 81.82,
+      "end": 88.25,
+      "duration": 6.43,
+      "text": "You just forgot that Christmas isn't meant to be trapped. It's meant to lead us forward."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 88.25,
+      "end": 91.61,
+      "duration": 3.36,
+      "text": "Barnaby patted the Clockmaker's shoulder."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 91.61,
+      "end": 99.7,
+      "duration": 8.09,
+      "text": "Come on, master. Let's go home. Granny has a warm plate of cookies waiting on the hearth."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 99.7,
+      "end": 106.78,
+      "duration": 7.08,
+      "text": "The Clockmaker bowed his head, wiping his tears with his velvet sleeve, and let his old apprentice lead him toward the lift."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "sceneId": "c1p7",
+  "title": "Master Detective Pip",
+  "totalDuration": 100.75,
+  "file": "audio/c1p7.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 5.88,
+      "duration": 5.88,
+      "text": "With a muffled grunt and a flurry of powdery snow, the figure yanks its head out of the drift."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 5.88,
+      "end": 12.5,
+      "duration": 6.62,
+      "text": "It\u2019s a fox. A real, living, three-foot-tall fox standing on two hind paws."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 12.5,
+      "end": 31.42,
+      "duration": 18.91,
+      "text": "He wears a heavy green detective's coat that is clearly three sizes too big for him, with brass buttons the size of saucers. A long, hand-knitted red wool scarf is wrapped around his neck so many times his snout barely pokes over the top, and a crooked tweed detective hat rests lopsidedly between two pointed, velvet-brown ears."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 31.42,
+      "end": 39.94,
+      "duration": 8.52,
+      "text": "The fox shakes the snow off his whiskers, vigorously brushes white powder off his coat lapels, and clears his throat with great theatrical flair."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 39.94,
+      "end": 47.11,
+      "duration": 7.18,
+      "text": "When he speaks, his voice is surprisingly deep, carrying a ridiculously posh, exaggerated British accent:"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "pip",
+      "start": 47.11,
+      "end": 58.32,
+      "duration": 11.21,
+      "text": "Ahem! Splendid! An absolutely immaculate piece of trans-dimensional navigation. Father Christmas, I presume, should be standing precisely\u2014"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 58.32,
+      "end": 68.78,
+      "duration": 10.46,
+      "text": "The fox pauses. His yellow eyes slowly travel across the brick wall, the icy gravel, and settle directly on the rusted green dumpster three feet from his nose."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 68.78,
+      "end": 72.34,
+      "duration": 3.55,
+      "text": "He squints at the graffiti on the dumpster lid."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 72.34,
+      "end": 74.21,
+      "duration": 1.87,
+      "text": "Ah,"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 74.21,
+      "end": 77.52,
+      "duration": 3.31,
+      "text": "he murmurs, his ears drooping slightly."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 77.52,
+      "end": 84.86,
+      "duration": 7.34,
+      "text": "That is... mildly disappointing. The North Pole appears to have significantly deferred its exterior maintenance."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 84.86,
+      "end": 91.97,
+      "duration": 7.1,
+      "text": "Down the alleyway, around the corner of the gym, you hear the sharp, rhythmic crunch of wooden boots on frozen snow:"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 91.97,
+      "end": 95.62,
+      "duration": 3.65,
+      "text": "Crunch-clack. Crunch-clack."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 95.62,
+      "end": 98.83,
+      "duration": 3.22,
+      "text": "The Nutcracker pursuit patrol is coming."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 98.83,
+      "end": 100.75,
+      "duration": 1.92,
+      "text": "What do you do?"
+    }
+  ]
+}

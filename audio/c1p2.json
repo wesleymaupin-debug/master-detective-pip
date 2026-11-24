@@ -1,0 +1,215 @@
+{
+  "sceneId": "c1p2",
+  "title": "The Merriment Processing Station",
+  "totalDuration": 132.24,
+  "file": "audio/c1p2.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 4.3,
+      "duration": 4.3,
+      "text": "The soldiers marched you through the snowy streets straight to your school."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 4.3,
+      "end": 14.86,
+      "duration": 10.56,
+      "text": "Except Oak Creek Elementary didn't look like school anymore. The double doors were flanked by giant peppermint candy canes, and a painted banner over the entrance read:"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 14.86,
+      "end": 19.03,
+      "duration": 4.18,
+      "text": "DISTRICT 4 MERRIMENT PROCESSING STATION \u2014 ENJOY YOUR CHEER."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 19.03,
+      "end": 33.41,
+      "duration": 14.38,
+      "text": "Inside, the warm smell of floor wax and basketballs was completely buried under an overwhelming stench of burnt peppermint and cinnamon. The gymnasium scoreboard above the bleachers flickered with bright red numbers: DEC 25."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 33.41,
+      "end": 44.09,
+      "duration": 10.68,
+      "text": "Along the baseline, a dozen children stood in a nervous line. At the front of the line, your best friends, Maya and Leo, were huddled together in their winter coats."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "hero",
+      "start": 44.09,
+      "end": 45.96,
+      "duration": 1.87,
+      "text": "Hey!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 45.96,
+      "end": 49.08,
+      "duration": 3.12,
+      "text": "you whisper, slipping up behind them."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "hero",
+      "start": 49.08,
+      "end": 54.07,
+      "duration": 4.99,
+      "text": "Maya! Leo! What is going on?"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 54.07,
+      "end": 57.41,
+      "duration": 3.34,
+      "text": "Maya turns, her eyes wide with panic."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 57.41,
+      "end": 66.24,
+      "duration": 8.83,
+      "text": "They rounded up everyone who didn't come out of their houses to sing carols! They said we have an acute case of 'Holiday Irregularity'!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 66.24,
+      "end": 69.02,
+      "duration": 2.78,
+      "text": "They're putting people in front of that thing,"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 69.02,
+      "end": 73.51,
+      "duration": 4.49,
+      "text": "Leo whispers, pointing a shaking mitten toward the center court."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 73.51,
+      "end": 90.84,
+      "duration": 17.33,
+      "text": "Where the center jump circle used to be sat a massive iron stove\u2014the Cheer Hearth. Its copper pipes rattled and hissed, venting sweet-smelling, glittery lavender steam into the gym rafters. Inside the hearth, a flame danced with a strange, hypnotic purple-and-gold glow."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 90.84,
+      "end": 96.67,
+      "duration": 5.83,
+      "text": "A towering Nutcracker commander with brass epaulets slammed his wooden staff onto the floor."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 96.67,
+      "end": 98.54,
+      "duration": 1.87,
+      "text": "THUMP!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "soldier",
+      "start": 98.54,
+      "end": 100.42,
+      "duration": 1.87,
+      "text": "NEXT CITIZEN,"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 100.42,
+      "end": 105.12,
+      "duration": 4.7,
+      "text": "the commander boomed, his painted wooden lips snapping open and shut."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "soldier",
+      "start": 105.12,
+      "end": 109.32,
+      "duration": 4.2,
+      "text": "PROCEED TO THE CHEER HEARTH TO RESTORE MANDATORY FESTIVE SPIRIT."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 109.32,
+      "end": 112.94,
+      "duration": 3.62,
+      "text": "Two wooden guards grabbed Maya by the elbows."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 112.94,
+      "end": 116.4,
+      "duration": 3.46,
+      "text": "Wait! Let go of me!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 116.4,
+      "end": 119.16,
+      "duration": 2.76,
+      "text": "Maya cried, pulling back."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 119.16,
+      "end": 124.22,
+      "duration": 5.06,
+      "text": "Today is Thanksgiving! I'm supposed to visit my grandma!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 124.22,
+      "end": 132.24,
+      "duration": 8.02,
+      "text": "The guards didn't blink. They forced Maya onto a small brass stool directly in front of the swirling purple fire."
+    }
+  ]
+}

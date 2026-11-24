@@ -1,0 +1,71 @@
+{
+  "sceneId": "c2p6a",
+  "title": "The Frosted Window",
+  "totalDuration": 44.76,
+  "file": "audio/c2p6a.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 24.79,
+      "duration": 24.79,
+      "text": "You walk over to the small, circular window and use your mitten to wipe away the thick layer of frost. Outside, the fifty-foot wooden waterwheel is frozen solid in the river ice. But as moonlight hits the spokes, you notice something strange: the shadow cast by the wheel onto the mill wall doesn't match the wheel at all! The shadow reveals a hidden inner spoke\u2014and it points directly at the iron stove in the corner!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "hero",
+      "start": 24.79,
+      "end": 26.66,
+      "duration": 1.87,
+      "text": "Pip!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 26.66,
+      "end": 28.58,
+      "duration": 1.92,
+      "text": "you say."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "hero",
+      "start": 28.58,
+      "end": 33.02,
+      "duration": 4.44,
+      "text": "Look at the shadow! It's pointing at your stove!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 33.02,
+      "end": 34.9,
+      "duration": 1.87,
+      "text": "Aha!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 34.9,
+      "end": 38.23,
+      "duration": 3.34,
+      "text": "Pip declares, bounding across the room."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "pip",
+      "start": 38.23,
+      "end": 44.76,
+      "duration": 6.53,
+      "text": "The stove! Naturally, I was keeping my tea warm on the primary control mechanism!"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "sceneId": "c3p2b",
+  "title": "The Ribbon Inspection Loop",
+  "totalDuration": 67.75,
+  "file": "audio/c3p2b.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 7.08,
+      "duration": 7.08,
+      "text": "You snatch the shiny red holiday box off the desk and shove it directly into the lead soldier\u2019s outstretched wooden hands!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "soldier",
+      "start": 7.08,
+      "end": 9.41,
+      "duration": 2.33,
+      "text": "GIFT DELIVERY DETECTED!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 9.41,
+      "end": 12.96,
+      "duration": 3.55,
+      "text": "the soldier announces with alarming cheerfulness."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 12.96,
+      "end": 22.1,
+      "duration": 9.14,
+      "text": "The soldier\u2019s wooden fingers snap tightly around the ribbon. His pupils spin like tiny clockwork roulette wheels as his programming locks up:"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 22.1,
+      "end": 23.98,
+      "duration": 1.87,
+      "text": "WHIRRR-CLICK!"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 23.98,
+      "end": 34.49,
+      "duration": 10.51,
+      "text": "COMMENCING FOUR-HUNDRED-POINT HOLIDAY PACKAGING EVALUATION. CRITERIA ONE: IS THE GOLDEN BOW POSITIONED AT A PRECISE FORTY-FIVE-DEGREE FESTIVE INCLINE?"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 34.49,
+      "end": 45.79,
+      "duration": 11.3,
+      "text": "The other two soldiers immediately drop their weapons, pull tiny wooden rulers and brass magnifying glasses from their coats, and crowd around the box, loudly debating the tension of the wrapping paper:"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 45.79,
+      "end": 51.46,
+      "duration": 5.66,
+      "text": "THE HOSPITALITY CREASE ON THE NORTHEAST CORNER IS CLEARLY DEFICIENT BY THREE MILLIMETERS!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 51.46,
+      "end": 57.34,
+      "duration": 5.88,
+      "text": "NONSENSE, LIEUTENANT! THE RIBBON DENSITY PASSES ROYAL INSPECTION!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 57.34,
+      "end": 59.21,
+      "duration": 1.87,
+      "text": "Great Scott!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 59.21,
+      "end": 62.35,
+      "duration": 3.14,
+      "text": "Pip gasps, tiptoeing behind you."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 62.35,
+      "end": 67.75,
+      "duration": 5.4,
+      "text": "They're arguing over gift-wrap! Move, move, move!"
+    }
+  ]
+}

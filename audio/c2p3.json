@@ -1,0 +1,206 @@
+{
+  "sceneId": "c2p3",
+  "title": "The Frozen Aqueduct",
+  "totalDuration": 124.78,
+  "file": "audio/c2p3.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.12,
+      "duration": 6.12,
+      "text": "Leaving the whispering forest behind, Pip led you out onto a high stone ridge overlooking the valley."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 6.12,
+      "end": 24.02,
+      "duration": 17.9,
+      "text": "Stretching across the canyon like the spine of a sleeping dragon was the Ancient Aqueduct\u2014a massive, arched bridge of carved cobblestones. In summer, it must have carried mountain water to the village. Now, it was a solid highway of slick, blue-white ice suspended three hundred feet in the air."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "pip",
+      "start": 24.02,
+      "end": 26.71,
+      "duration": 2.69,
+      "text": "Follow my lead, recruit,"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 26.71,
+      "end": 31.94,
+      "duration": 5.23,
+      "text": "Pip whispered, pulling his trench coat tight and dropping into a theatrical crouch."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "pip",
+      "start": 31.94,
+      "end": 38.78,
+      "duration": 6.84,
+      "text": "Silent as an owl. Swift as an arctic shadow. Step precisely where I step."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 38.78,
+      "end": 43.85,
+      "duration": 5.06,
+      "text": "Pip took three stealthy, exaggerated tiptoe steps out onto the ice."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 43.85,
+      "end": 48.84,
+      "duration": 4.99,
+      "text": "SQUEAK. SQUEAK. SQUEAK."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 48.84,
+      "end": 53.47,
+      "duration": 4.63,
+      "text": "His rubber boots made a noise like two wet balloons rubbing together."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "hero",
+      "start": 53.47,
+      "end": 56.18,
+      "duration": 2.71,
+      "text": "Pip, your boots are squeaking,"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 56.18,
+      "end": 58.08,
+      "duration": 1.9,
+      "text": "you whisper."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 58.08,
+      "end": 60.07,
+      "duration": 1.99,
+      "text": "They are not squeaking,"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 60.07,
+      "end": 63.14,
+      "duration": 3.07,
+      "text": "Pip hissed back without turning around."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "pip",
+      "start": 63.14,
+      "end": 66.91,
+      "duration": 3.77,
+      "text": "They are providing audible confirmation of tactical friction\u2014"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 66.91,
+      "end": 68.78,
+      "duration": 1.87,
+      "text": "SNAP!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 68.78,
+      "end": 74.04,
+      "duration": 5.26,
+      "text": "A blinding beam of harsh, brilliant white light hit you both from the darkness above!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 74.04,
+      "end": 83.52,
+      "duration": 9.48,
+      "text": "High on the mountain crag, a clockwork searchlight tower had swiveled in your direction. The light was so bright you had to shield your eyes with your mitten."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 83.52,
+      "end": 87.84,
+      "duration": 4.32,
+      "text": "A piercing brass steam-whistle shrieked into the freezing night air:"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 87.84,
+      "end": 89.98,
+      "duration": 2.14,
+      "text": "WHOOOOO-EEEE-CLANG-CLANG!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 89.98,
+      "end": 95.69,
+      "duration": 5.71,
+      "text": "A mechanical voice boomed from the watchtower horn, rattling the icicles under the bridge:"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 95.69,
+      "end": 104.54,
+      "duration": 8.86,
+      "text": "CURFEW PROTOCOL THIRTEEN INITIATED! UNAUTHORIZED SHADOWS ON HIGH SPAN! DEPLOY SEIZURE PATROLS!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 104.54,
+      "end": 119.62,
+      "duration": 15.07,
+      "text": "Heavy wooden thuds echoed from both sides of the aqueduct. Marching onto the bridge from the north and south were squads of clockwork sentries, their crimson coats glowing under the searchlight beams, their brass bayonets raised and humming with purple electricity."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 119.62,
+      "end": 124.78,
+      "duration": 5.16,
+      "text": "You're trapped in the middle of a frozen bridge three hundred feet above the valley floor."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "sceneId": "c3p4",
+  "title": "Enter Titan",
+  "totalDuration": 172.73,
+  "file": "audio/c3p4.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 6.46,
+      "duration": 6.46,
+      "text": "Parting the swirling storm clouds, an enormous, magnificent hot-air balloon descended out of the sky."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 6.46,
+      "end": 21.84,
+      "duration": 15.38,
+      "text": "The balloon envelope was colossal\u2014shaped like a round holiday ornament made of thick, quilted canvas with vibrant red-and-white peppermint stripes. Hanging beneath the burner was an oversized wicker gondola reinforced with polished copper pipes and brass fog lamps."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 21.84,
+      "end": 28.54,
+      "duration": 6.7,
+      "text": "The balloon drifted down toward the roof peak, its twin propane burners roaring: WHOOOOOOSH!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 28.54,
+      "end": 32.83,
+      "duration": 4.3,
+      "text": "Standing at the brass steering helm of the basket was the pilot."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 32.83,
+      "end": 35.38,
+      "duration": 2.54,
+      "text": "You blink in disbelief."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 35.38,
+      "end": 63.38,
+      "duration": 28.01,
+      "text": "He was an American Bulldog. But not just any bulldog\u2014he was a towering, broad-chested powerhouse of a dog with massive muscular shoulders, a big square head, and a brilliant white coat sprinkled with tiny black freckles across his muzzle and ears. He wore a shearling-lined leather bomber jacket, a fleece-lined aviator cap, and a pair of brass flight goggles perched over two big, soulful, chocolate-brown eyes. His little docked tail was clamped down tight in nervousness."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 63.38,
+      "end": 72.14,
+      "duration": 8.76,
+      "text": "When he stepped up to the edge of the basket, he looked so big and formidable that the Nutcrackers on the ground actually paused their marching in sheer intimidation."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 72.14,
+      "end": 76.37,
+      "duration": 4.22,
+      "text": "Then the wicker basket bumped the mill chimney with a gentle thud."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 76.37,
+      "end": 80.35,
+      "duration": 3.98,
+      "text": "The giant bulldog let out a sharp, pathetic squeak:"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 80.35,
+      "end": 82.22,
+      "duration": 1.87,
+      "text": "EEP!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 82.22,
+      "end": 92.83,
+      "duration": 10.61,
+      "text": "He dropped flat onto his belly in the bottom of the basket, threw both of his massive, muscular white paws over his ears, and began shivering so violently the entire gondola rattled!"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "titan",
+      "start": 92.83,
+      "end": 97.51,
+      "duration": 4.68,
+      "text": "O-Oh goodness! Oh crumpets and cocoa!"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 97.51,
+      "end": 103.78,
+      "duration": 6.26,
+      "text": "the bulldog whimpered in a deep, booming voice that sounded like a giant bag of rocks being gently shaken."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "titan",
+      "start": 103.78,
+      "end": 116.59,
+      "duration": 12.82,
+      "text": "Tell me it was just a chimney! Tell me it wasn't an airborne snow-monster! Pip! Pip, are you down there?! I am having a medical crisis of pure fear!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 116.59,
+      "end": 121.15,
+      "duration": 4.56,
+      "text": "Pip scrambled across the snowy roof and grabbed the rim of the basket."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "pip",
+      "start": 121.15,
+      "end": 127.94,
+      "duration": 6.79,
+      "text": "Titan! Pull yourself together, man! We are under active hostile fire!"
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 127.94,
+      "end": 137.47,
+      "duration": 9.53,
+      "text": "The bulldog peeked one eye out from under his spotted ear. He spotted you, gasped, and tried to squeeze his giant body behind a tiny sandbag:"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 137.47,
+      "end": 145.18,
+      "duration": 7.7,
+      "text": "A human?! A real human?! D-Do they bite?! Are they dangerous?!"
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 145.18,
+      "end": 151.08,
+      "duration": 5.9,
+      "text": "Down on the ground, the Nutcracker soldiers recovered from their shock and raised their brass staves!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 151.08,
+      "end": 153.24,
+      "duration": 2.16,
+      "text": "CRACK-CRACK-CRACK!"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 153.24,
+      "end": 161.98,
+      "duration": 8.74,
+      "text": "Luminous webs of sticky, glowing silver tinsel nets shot upward from the courtyard, latching onto the mill gutters and tearing toward the balloon basket!"
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "pip",
+      "start": 161.98,
+      "end": 163.85,
+      "duration": 1.87,
+      "text": "Titan!"
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 163.85,
+      "end": 167.18,
+      "duration": 3.34,
+      "text": "Pip screamed, diving over the wicker rim."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "pip",
+      "start": 167.18,
+      "end": 172.73,
+      "duration": 5.54,
+      "text": "Engage the burners! Fly, you glorious coward, FLY!"
+    }
+  ]
+}

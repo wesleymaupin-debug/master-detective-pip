@@ -1,0 +1,116 @@
+{
+  "sceneId": "c3p2c",
+  "title": "The Winding-Key Reverse",
+  "totalDuration": 69.6,
+  "file": "audio/c3p2c.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 8.06,
+      "duration": 8.06,
+      "text": "You grab the heavy iron clock-tweezers and slide like a hockey player across the slick river stones, ducking right behind the lead Nutcracker!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 8.06,
+      "end": 16.44,
+      "duration": 8.38,
+      "text": "With a quick, sharp twist of the tweezers, you jam the tool into the brass ratchet gear beneath the soldier's giant back-key and FLIP the switch!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 16.44,
+      "end": 19.9,
+      "duration": 3.46,
+      "text": "SPRRR-IIII-NNNG!"
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 19.9,
+      "end": 23.88,
+      "duration": 3.98,
+      "text": "The massive golden key violently reverses direction!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 23.88,
+      "end": 32.83,
+      "duration": 8.95,
+      "text": "The soldier\u2019s wooden head spins a full three-hundred-and-sixty degrees on his neck. His legs begin marching backward with double the speed:"
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 32.83,
+      "end": 34.92,
+      "duration": 2.09,
+      "text": "CLACK-CLACK-CLACK!"
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "soldier",
+      "start": 34.92,
+      "end": 38.69,
+      "duration": 3.77,
+      "text": "!TLAAAH! !RETSISER EVITSEF ,EERETNES ERAPERP!"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 38.69,
+      "end": 44.81,
+      "duration": 6.12,
+      "text": "the soldier bellows in complete backward reverse, furiously moonwalking across the vault floor!"
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 44.81,
+      "end": 62.69,
+      "duration": 17.88,
+      "text": "He crashes straight into the second soldier, whose key also catches and flips in reverse! Within seconds, all three soldiers are furiously marching backward in a tangled, chaotic pile of red coats, wooden boots, and fuzzy hats, tumbling backward right up the stone stairs like a herd of confused dominoes!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "pip",
+      "start": 62.69,
+      "end": 65.86,
+      "duration": 3.17,
+      "text": "A masterstroke of chronological reversal!"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "narrator",
+      "start": 65.86,
+      "end": 67.73,
+      "duration": 1.87,
+      "text": "Pip crows."
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 67.73,
+      "end": 69.6,
+      "duration": 1.87,
+      "text": "Run!"
+    }
+  ]
+}

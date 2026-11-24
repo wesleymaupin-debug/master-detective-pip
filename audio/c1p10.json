@@ -1,0 +1,422 @@
+{
+  "sceneId": "c1p10",
+  "title": "Everfrost",
+  "totalDuration": 244.18,
+  "file": "audio/c1p10.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 1.94,
+      "duration": 1.94,
+      "text": "WHHOOOOOOOOOOSH!"
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "narrator",
+      "start": 1.94,
+      "end": 6.34,
+      "duration": 4.39,
+      "text": "You crash into something soft, cold, and utterly blinding."
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 6.34,
+      "end": 12.36,
+      "duration": 6.02,
+      "text": "Snow. Tons and tons of freezing, powdery, delicious-smelling snow."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 12.36,
+      "end": 31.37,
+      "duration": 19.01,
+      "text": "You roll over, sputtering and coughing, shaking white flakes out of your eyelashes. The biting Arizona wind is gone. The smell of asphalt and garbage dumpsters is gone. Instead, the air smells crisp and magical\u2014like fresh pine needles, woodsmoke, peppermint, and melted chocolate."
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 31.37,
+      "end": 39.0,
+      "duration": 7.63,
+      "text": "Next to you in the drift, the brass compass gives a tired little pfffft sound, and a sad wisp of black smoke curls out from its gears."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 39.0,
+      "end": 43.68,
+      "duration": 4.68,
+      "text": "A pair of pointed ears pops out of the snow, followed by a tweed hat."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 43.68,
+      "end": 55.08,
+      "duration": 11.4,
+      "text": "Pip sits up, rubs his sore nose, and adjusts his coat with trembling paws. He glances at the broken, smoking compass, quickly stuffs it behind his back, and clears his throat:"
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "pip",
+      "start": 55.08,
+      "end": 63.98,
+      "duration": 8.9,
+      "text": "Ahem. And thus concludes our rapid tactical repositioning. Text-book execution. Nothing to it."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "narrator",
+      "start": 63.98,
+      "end": 68.14,
+      "duration": 4.15,
+      "text": "He turns to look at you, his eyes darting around nervously."
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 68.14,
+      "end": 76.39,
+      "duration": 8.26,
+      "text": "You wouldn't, by any remote stretch of the imagination... happen to know how to repair an eighth-century chronometric flux-spring, would you?"
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "hero",
+      "start": 76.39,
+      "end": 78.26,
+      "duration": 1.87,
+      "text": "No,"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "narrator",
+      "start": 78.26,
+      "end": 81.5,
+      "duration": 3.24,
+      "text": "you say, brushing snow off your knees."
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "hero",
+      "start": 81.5,
+      "end": 83.38,
+      "duration": 1.87,
+      "text": "Where are we?"
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "narrator",
+      "start": 83.38,
+      "end": 89.66,
+      "duration": 6.29,
+      "text": "Pip doesn't answer right away. He slowly turns around, looking down the ridge."
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "narrator",
+      "start": 89.66,
+      "end": 93.65,
+      "duration": 3.98,
+      "text": "You follow his gaze\u2014and your breath catches in your throat."
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 93.65,
+      "end": 99.02,
+      "duration": 5.38,
+      "text": "Spread across the valley below is the most extraordinary village you have ever seen."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "narrator",
+      "start": 99.02,
+      "end": 116.57,
+      "duration": 17.54,
+      "text": "Hundreds of gingerbread-trimmed cottages nestle against the snowy mountainside, their frosted windows glowing with warm, welcoming amber light. Frozen waterways of glittering ice wind under carved stone bridges, and hot-air balloons decorated like holiday ornaments drift lazily between mountain peaks."
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 116.57,
+      "end": 122.69,
+      "duration": 6.12,
+      "text": "And rising high above the center of the village, towering into the starry sky, is the Grand Clock."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "narrator",
+      "start": 122.69,
+      "end": 136.25,
+      "duration": 13.56,
+      "text": "It is an immense, breathtaking mountain of brass, crystal, and glowing clockwork. Towering gear wheels five stories high turn in silent, majestic harmony, bathing the entire valley in a soft, golden radiance."
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "pip",
+      "start": 136.25,
+      "end": 138.12,
+      "duration": 1.87,
+      "text": "Welcome,"
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 138.12,
+      "end": 142.61,
+      "duration": 4.49,
+      "text": "Pip whispers, his voice quiet and uncharacteristically solemn."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "pip",
+      "start": 142.61,
+      "end": 144.48,
+      "duration": 1.87,
+      "text": "To Everfrost."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 144.48,
+      "end": 147.55,
+      "duration": 3.07,
+      "text": "You stare down at the glowing spires."
+    },
+    {
+      "elId": "seg-23",
+      "idx": 23,
+      "speaker": "pip",
+      "start": 147.55,
+      "end": 151.1,
+      "duration": 3.55,
+      "text": "Everfrost? What is this place?"
+    },
+    {
+      "elId": "seg-24",
+      "idx": 24,
+      "speaker": "pip",
+      "start": 151.1,
+      "end": 153.55,
+      "duration": 2.45,
+      "text": "It's where Christmas comes from,"
+    },
+    {
+      "elId": "seg-25",
+      "idx": 25,
+      "speaker": "narrator",
+      "start": 153.55,
+      "end": 157.56,
+      "duration": 4.01,
+      "text": "Pip says, clutching his coat tighter around his chest."
+    },
+    {
+      "elId": "seg-26",
+      "idx": 26,
+      "speaker": "pip",
+      "start": 157.56,
+      "end": 161.02,
+      "duration": 3.46,
+      "text": "Or rather... where it is supposed to be kept safe."
+    },
+    {
+      "elId": "seg-27",
+      "idx": 27,
+      "speaker": "narrator",
+      "start": 161.02,
+      "end": 165.19,
+      "duration": 4.18,
+      "text": "Suddenly, the golden glow from the giant clock flickers."
+    },
+    {
+      "elId": "seg-28",
+      "idx": 28,
+      "speaker": "narrator",
+      "start": 165.19,
+      "end": 175.32,
+      "duration": 10.13,
+      "text": "Deep inside the clockwork spires, something groans. A metallic shriek echoes across the valley, so loud it sends snow avalanching down the distant peaks."
+    },
+    {
+      "elId": "seg-29",
+      "idx": 29,
+      "speaker": "narrator",
+      "start": 175.32,
+      "end": 180.05,
+      "duration": 4.73,
+      "text": "The massive, golden hour hand on the Grand Clock violently shudders."
+    },
+    {
+      "elId": "seg-30",
+      "idx": 30,
+      "speaker": "narrator",
+      "start": 180.05,
+      "end": 183.62,
+      "duration": 3.58,
+      "text": "Instead of moving forward... it jerks backward."
+    },
+    {
+      "elId": "seg-31",
+      "idx": 31,
+      "speaker": "narrator",
+      "start": 183.62,
+      "end": 185.5,
+      "duration": 1.87,
+      "text": "BONGGGGGGG."
+    },
+    {
+      "elId": "seg-32",
+      "idx": 32,
+      "speaker": "narrator",
+      "start": 185.5,
+      "end": 189.31,
+      "duration": 3.82,
+      "text": "A deep, unnatural bell tolls across the village."
+    },
+    {
+      "elId": "seg-33",
+      "idx": 33,
+      "speaker": "narrator",
+      "start": 189.31,
+      "end": 193.75,
+      "duration": 4.44,
+      "text": "BONG. BONG. BONG."
+    },
+    {
+      "elId": "seg-34",
+      "idx": 34,
+      "speaker": "narrator",
+      "start": 193.75,
+      "end": 199.78,
+      "duration": 6.02,
+      "text": "You count the strikes in your head. Nine... ten... eleven... twelve..."
+    },
+    {
+      "elId": "seg-35",
+      "idx": 35,
+      "speaker": "narrator",
+      "start": 199.78,
+      "end": 201.65,
+      "duration": 1.87,
+      "text": "BONG."
+    },
+    {
+      "elId": "seg-36",
+      "idx": 36,
+      "speaker": "narrator",
+      "start": 201.65,
+      "end": 203.52,
+      "duration": 1.87,
+      "text": "Thirteen."
+    },
+    {
+      "elId": "seg-37",
+      "idx": 37,
+      "speaker": "narrator",
+      "start": 203.52,
+      "end": 215.76,
+      "duration": 12.24,
+      "text": "A cold, violet wave of magical energy ripples outward from the clock tower, sweeping across the village roofs. In an instant, every warm amber window in Everfrost blinks out into darkness."
+    },
+    {
+      "elId": "seg-38",
+      "idx": 38,
+      "speaker": "narrator",
+      "start": 215.76,
+      "end": 222.22,
+      "duration": 6.46,
+      "text": "Pip\u2019s bushy tail drops between his legs. His eyes go wide with genuine horror."
+    },
+    {
+      "elId": "seg-39",
+      "idx": 39,
+      "speaker": "hero",
+      "start": 222.22,
+      "end": 224.09,
+      "duration": 1.87,
+      "text": "Pip?"
+    },
+    {
+      "elId": "seg-40",
+      "idx": 40,
+      "speaker": "narrator",
+      "start": 224.09,
+      "end": 228.07,
+      "duration": 3.98,
+      "text": "you whisper, the hair on the back of your neck standing up."
+    },
+    {
+      "elId": "seg-41",
+      "idx": 41,
+      "speaker": "hero",
+      "start": 228.07,
+      "end": 229.94,
+      "duration": 1.87,
+      "text": "What was that?"
+    },
+    {
+      "elId": "seg-42",
+      "idx": 42,
+      "speaker": "narrator",
+      "start": 229.94,
+      "end": 236.45,
+      "duration": 6.5,
+      "text": "Pip slowly swallows. His exaggerated detective accent is completely gone."
+    },
+    {
+      "elId": "seg-43",
+      "idx": 43,
+      "speaker": "pip",
+      "start": 236.45,
+      "end": 238.32,
+      "duration": 1.87,
+      "text": "That..."
+    },
+    {
+      "elId": "seg-44",
+      "idx": 44,
+      "speaker": "narrator",
+      "start": 238.32,
+      "end": 241.34,
+      "duration": 3.02,
+      "text": "Pip whispers into the freezing dark,"
+    },
+    {
+      "elId": "seg-45",
+      "idx": 45,
+      "speaker": "pip",
+      "start": 241.34,
+      "end": 244.18,
+      "duration": 2.83,
+      "text": "...wasn't supposed to happen until tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "sceneId": "c3p3",
+  "title": "Trapped on the Roof",
+  "totalDuration": 122.04,
+  "file": "audio/c3p3.mp3",
+  "segments": [
+    {
+      "elId": "seg-0",
+      "idx": 0,
+      "speaker": "narrator",
+      "start": 0.0,
+      "end": 10.63,
+      "duration": 10.63,
+      "text": "Behind the workbench, you spot a vertical maintenance shaft. An old iron ladder runs straight up through the rock, leading toward a faint square of snowy moonlight high above."
+    },
+    {
+      "elId": "seg-1",
+      "idx": 1,
+      "speaker": "hero",
+      "start": 10.63,
+      "end": 12.58,
+      "duration": 1.94,
+      "text": "Up the ladder!"
+    },
+    {
+      "elId": "seg-2",
+      "idx": 2,
+      "speaker": "narrator",
+      "start": 12.58,
+      "end": 14.45,
+      "duration": 1.87,
+      "text": "you shout."
+    },
+    {
+      "elId": "seg-3",
+      "idx": 3,
+      "speaker": "narrator",
+      "start": 14.45,
+      "end": 26.66,
+      "duration": 12.22,
+      "text": "You and Pip scramble up the iron rungs as fast as you can. You climb past the thundering, frozen waterwheel shaft, bursting through an old sheet-metal trapdoor out onto the pitched roof of the Old Mill!"
+    },
+    {
+      "elId": "seg-4",
+      "idx": 4,
+      "speaker": "narrator",
+      "start": 26.66,
+      "end": 34.2,
+      "duration": 7.54,
+      "text": "The freezing mountain wind hits you like a slap. Snow is falling thick and heavy across the wooden shingles."
+    },
+    {
+      "elId": "seg-5",
+      "idx": 5,
+      "speaker": "narrator",
+      "start": 34.2,
+      "end": 38.52,
+      "duration": 4.32,
+      "text": "You scramble up to the roof peak\u2014and stop dead in your tracks."
+    },
+    {
+      "elId": "seg-6",
+      "idx": 6,
+      "speaker": "narrator",
+      "start": 38.52,
+      "end": 42.98,
+      "duration": 4.46,
+      "text": "Down in the courtyard below, the mill is completely surrounded."
+    },
+    {
+      "elId": "seg-7",
+      "idx": 7,
+      "speaker": "narrator",
+      "start": 42.98,
+      "end": 54.26,
+      "duration": 11.28,
+      "text": "Dozens of Nutcracker soldiers on clockwork horses have ringed the building. Their brass searchlights sweep across the snowy roof, pinning you and Pip in a blinding crossfire of white light."
+    },
+    {
+      "elId": "seg-8",
+      "idx": 8,
+      "speaker": "pip",
+      "start": 54.26,
+      "end": 56.74,
+      "duration": 2.47,
+      "text": "SURRENDER THE C.M. JOURNAL!"
+    },
+    {
+      "elId": "seg-9",
+      "idx": 9,
+      "speaker": "narrator",
+      "start": 56.74,
+      "end": 60.14,
+      "duration": 3.41,
+      "text": "a loudspeaker horn blares from the ground."
+    },
+    {
+      "elId": "seg-10",
+      "idx": 10,
+      "speaker": "pip",
+      "start": 60.14,
+      "end": 62.98,
+      "duration": 2.83,
+      "text": "THERE IS NO ESCAPE FROM FESTIVE ORDER!"
+    },
+    {
+      "elId": "seg-11",
+      "idx": 11,
+      "speaker": "pip",
+      "start": 62.98,
+      "end": 64.85,
+      "duration": 1.87,
+      "text": "We're trapped,"
+    },
+    {
+      "elId": "seg-12",
+      "idx": 12,
+      "speaker": "narrator",
+      "start": 64.85,
+      "end": 69.29,
+      "duration": 4.44,
+      "text": "you pant, looking at the forty-foot drop into the frozen river."
+    },
+    {
+      "elId": "seg-13",
+      "idx": 13,
+      "speaker": "pip",
+      "start": 69.29,
+      "end": 71.88,
+      "duration": 2.59,
+      "text": "Pip, there's nowhere to go!"
+    },
+    {
+      "elId": "seg-14",
+      "idx": 14,
+      "speaker": "pip",
+      "start": 71.88,
+      "end": 73.75,
+      "duration": 1.87,
+      "text": "Nonsense!"
+    },
+    {
+      "elId": "seg-15",
+      "idx": 15,
+      "speaker": "narrator",
+      "start": 73.75,
+      "end": 80.02,
+      "duration": 6.26,
+      "text": "Pip declared, puffing out his coat and reaching into his inner pocket with supreme, triumphant flair."
+    },
+    {
+      "elId": "seg-16",
+      "idx": 16,
+      "speaker": "pip",
+      "start": 80.02,
+      "end": 86.04,
+      "duration": 6.02,
+      "text": "Master Detective Pip never enters a hornets' nest without an aerial tactical evacuation strategy!"
+    },
+    {
+      "elId": "seg-17",
+      "idx": 17,
+      "speaker": "narrator",
+      "start": 86.04,
+      "end": 90.02,
+      "duration": 3.98,
+      "text": "He pulled out a heavy brass whistle shaped like an acorn."
+    },
+    {
+      "elId": "seg-18",
+      "idx": 18,
+      "speaker": "pip",
+      "start": 90.02,
+      "end": 103.73,
+      "duration": 13.7,
+      "text": "Behold! The Emergency Sky-Howler! I am about to summon Everfrost's most ferocious aerial transport operative! A creature of raw power, iron discipline, and blood-curdling sky-courage!"
+    },
+    {
+      "elId": "seg-19",
+      "idx": 19,
+      "speaker": "narrator",
+      "start": 103.73,
+      "end": 107.66,
+      "duration": 3.94,
+      "text": "Pip put the whistle to his lips and blew with all his might."
+    },
+    {
+      "elId": "seg-20",
+      "idx": 20,
+      "speaker": "narrator",
+      "start": 107.66,
+      "end": 114.41,
+      "duration": 6.74,
+      "text": "No sound came out. Just a high-pitched, ultrasonic hiss that made your teeth vibrate."
+    },
+    {
+      "elId": "seg-21",
+      "idx": 21,
+      "speaker": "narrator",
+      "start": 114.41,
+      "end": 117.67,
+      "duration": 3.26,
+      "text": "For five seconds, nothing happened."
+    },
+    {
+      "elId": "seg-22",
+      "idx": 22,
+      "speaker": "narrator",
+      "start": 117.67,
+      "end": 122.04,
+      "duration": 4.37,
+      "text": "Then, the snowy clouds directly above the mill began to glow."
+    }
+  ]
+}
